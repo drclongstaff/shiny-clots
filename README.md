@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/drclongstaff/shiny-clots/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+This site will link to my Shiny apps
+[clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
