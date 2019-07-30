@@ -2,10 +2,12 @@
 
 ### This site contains links to my Shiny apps that deal with biochemistry, particularly in relation to heamostasis and the clotting and lysis of fibrin.
 
-The first Shiny app I developed was designed to facilitate the analysis of clotting and lysis curves, such as the one shown below. A link to the latest version is provided.
+The first Shiny app I developed was designed to facilitate the analysis of clotting and lysis curves, such as the one shown below. 
 
-[clotlysis_2019 link](https://drclongstaff.shinyapps.io/clotlysisCL_2019) <img src="CurveF10.PNG" alt="Curve"
+ <img src="CurveF10.PNG" alt="Curve"
 	title="Clot lysis curve" width="350" height="300" />
+	
+This is a link to the online app [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019)
 
 The output from a set of clot lysis curves is shown here, along with the results for the time to 50% clot lysis.
 
