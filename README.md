@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages site
 
-You can use the [editor on GitHub](https://github.com/drclongstaff/shiny-clots/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### This site contains links to my Shiny apps that deal with biochemistry, particularly in relation to heamostasis and the clotting and lysis of fibrin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first Shiny app I developed was designed to facilitate the analysis of clotting and lysis curves, for example using data downloaded from a plate reader.  The lates version is shown below, with a link to the online app that can be used to analyse your data.
 
-This site will link to my Shiny apps
 [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019) <img src="CurveF10.PNG" alt="Curve"
 	title="Clot lysis curve" width="350" height="300" />
 
