@@ -12,7 +12,7 @@ This is a link to the online app [clotlysis_2019](https://drclongstaff.shinyapps
 The output from a set of clot lysis curves is shown here, along with the results for the time to 50% clot lysis.
 
 <img src="GraphTable.PNG" alt="GraphTable"
-	title="Clot lysis results" width="450" height="400" />
+	title="Clot lysis results" width="650" height="600" />
 
 ### Markdown
 
