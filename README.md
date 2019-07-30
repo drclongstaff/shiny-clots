@@ -8,6 +8,8 @@ This site will link to my Shiny apps
 [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019)
 ![Curve](CurveF10.PNG)
 
+< img src="GraphTable.PNG" />
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
