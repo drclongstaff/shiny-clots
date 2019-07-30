@@ -8,7 +8,8 @@ This site will link to my Shiny apps
 [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019)
 ![Curve](CurveF10.PNG)
 
-< img src="CurveF10.png" >
+<img src="CurveF10.PNG" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 
 ### Markdown
 
