@@ -6,10 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 This site will link to my Shiny apps
 [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019)
-![Curve](CurveF10.PNG)
 
-<img src="CurveF10.PNG" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+
+<img src="CurveF10.PNG" alt="Curve"
+	title="Clot lysis curve" width="250" height="200" />
 
 ### Markdown
 
