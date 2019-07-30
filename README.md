@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 This site will link to my Shiny apps
 [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019)
-![Curve](GraphTable.PNG width = "200")
+< img src="CurveF10.PNG" /
 
 ### Markdown
 
