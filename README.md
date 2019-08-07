@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-### This site contains links to my Shiny apps that deal with biochemical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
+### This site contains links to my Shiny apps that deal with numerical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
 
 
 #### Choose a brief description or follow the online link
