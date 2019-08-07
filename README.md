@@ -19,7 +19,17 @@
 		<td>
 		<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">ThrombinCL</A>
 		</td> 
-	 
+	</tr> 
+	<tr> <td><a href="#lysis">clot lysis</a></td> 
+		<td>
+			<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">clotlysisCL_2019</A>
+		</td> 
+	</tr> 
+	<tr> <td><a href="#generation">Thrombin generation</a></td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">ThrombinCL</A>
+		</td> 
+	</tr>  
 	</tr> 
 	<tr> <td><a href="#tests">Screening tests</a></td> 
 		<td>
