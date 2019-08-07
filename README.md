@@ -6,10 +6,18 @@
 
 #### Brief description of these apps can be found below
 
-| 1    |   2  |
-|:----|----:|
 
-<table> <tr> <th>Name</th> <th>Favorite Color</th> </tr> <tr> <td>Bob</td> <td>Yellow</td> </tr> <tr> <td>Michelle</td> <td>Purple</td> </tr> </table>
+
+<table> <tr> <th>Name</th> 
+	<th>Favorite Color</th> 
+	</tr> 
+	<tr> <td>Bob</td> 
+		<td>Yellow</td> 
+	</tr> 
+	<tr> <td>Michelle</td> 
+		<td>Purple</td> 
+	</tr> 
+</table>
 
 Read more: https://html.com/tables/#ixzz5vwEe0i79
 
