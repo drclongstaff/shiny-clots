@@ -16,7 +16,7 @@
 			<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">clotlysisCL_2019</A>
 		</td> 
 	</tr> 
-	<tr> <td>Michelle</td> 
+	<tr> <td><a href="#generation">Thrombin generation</a></td> 
 		<td>Purple</td> 
 	</tr> 
 </table>
