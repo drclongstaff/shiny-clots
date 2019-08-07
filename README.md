@@ -12,7 +12,9 @@
 	<th>Link to online app</th> 
 	</tr> 
 	<tr> <td>Clot <a href="#lysis">lysis</a></td> 
-		<td>[clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019){:target="_blank"}</td> 
+		<td>
+			[clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019){:target="_blank"}
+		</td> 
 	</tr> 
 	<tr> <td>Michelle</td> 
 		<td>Purple</td> 
