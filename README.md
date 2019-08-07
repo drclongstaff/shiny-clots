@@ -4,7 +4,7 @@
 
 ### Table of contents
 
-#### Choose a brief description of follow the online link
+#### Choose a brief description or follow the online link
 
 
 
