@@ -6,10 +6,11 @@
 
 #### These are the apps available
 
-* Clot lysis [Here](#Clot lysis)
+* Clot lysis 
+[Here](#Clot lysis)
 
 
-#Clot lysis)
+##### Clot lysis
 
 The first Shiny app I developed was designed to facilitate the analysis of fibrin clotting and lysis curves, such as the one shown below. 
 
