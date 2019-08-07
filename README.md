@@ -48,7 +48,8 @@ Detailed help notes are available [here](./docs/Clotlysis_CL_help_notes_2019.pdf
 ### Thrombin generation
 
  <img src="./images/CaptureCurve.PNG" alt="Curve"
-	title="Thrombin generation curve" width="350" height="300" />
+	title="Thrombin generation curve" width="500" height="400" />
+
 Detailed help notes are available [here](./docs/TGA_help_notes_2019.pdf){:target="_blank"}
 
 <a name="tests"></a>	
