@@ -58,6 +58,12 @@ Detailed help notes are available [here](./docs/TGA_help_notes_2019.pdf){:target
 <a name="activation"></a>	
 ### Zymogen activation, for example plasminogen activation assays
 
+<img src="./images/screenCapSq.PNG" alt="GraphTable"
+	title="Curves and calculations for zymogen activation" width="650" height="600" />
+	
+Detailed help notes are available [here](./docs/TGA_help_notes_2019.pdf){:target="_blank"}
+
+
 <a name="kinetics"></a>	
 ### Michaelis Menten kinetics and linear transformations
 
