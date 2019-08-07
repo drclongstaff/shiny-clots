@@ -52,28 +52,6 @@
 	</tr> 
 </table>
 
-
-
-* Clot <a href="#lysis">lysis</a> 
-Quick link to online app. [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019){:target="_blank"}
-
-* Thrombin <a href="#generation">generation</a>
-
-* Screening <a href="#tests">tests</a>
-
-* Zymogen <a href="#activation">activation</a>
-
-* Michaelis Menten <a href="#kinetics">kinetics</a>
-
-* Binding curves and Scatchard <a href="#plots">plots</a>
-
-* Fibrinolysis halo assasy <a href="#analysis">analysis</a>
-
-* Prekallikrein activator in <a href="#albumin">albumin</a>
-
-
-
-
 <a name="lysis"></a>
 ### Clot lysis
 
