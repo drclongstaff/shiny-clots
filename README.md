@@ -6,14 +6,13 @@
 
 #### These are the apps available
 
-* Clot lysis 
-[Here](#Clot-lysis)
+* Clot < href="lysis">lysis</a> 
 
 * Thrombin generation
-<a href="#thrombin">thrombin</a>
+<a href="#generation">generation</a>
 
 
-
+<a name="lysis"></a>
 ##### Clot lysis
 
 The first Shiny app I developed was designed to facilitate the analysis of fibrin clotting and lysis curves, such as the one shown below. 
@@ -31,7 +30,7 @@ The output from a set of clot lysis curves is shown here, along with the results
 Options are provided for baseline selection and curve fitting to facilitate reproducible, high throughput analysis
 
 
-<a name="thrombin"></a>	
+<a name="generation"></a>	
 ### Thrombin generation
 
 
