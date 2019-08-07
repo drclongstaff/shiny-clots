@@ -7,7 +7,7 @@
 #### These are the apps available
 
 * Clot lysis 
-[Here](#Clot lysis)
+[Here](#Clot-lysis)
 
 
 ##### Clot lysis
