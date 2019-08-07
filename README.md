@@ -10,7 +10,7 @@
 [Here](#Clot-lysis)
 
 * Thrombin generation
-<a "top"></a>
+<a name="top"></a>
 
 
 
@@ -30,7 +30,7 @@ The output from a set of clot lysis curves is shown here, along with the results
 
 Options are provided for baseline selection and curve fitting to facilitate reproducible, high throughput analysis
 
-<a "#top">thrombin</a>
+<a href="#top">thrombin</a>
 	
 ### Thrombin generation
 
