@@ -8,18 +8,18 @@
 
 
 
-<table> <tr> <th>Name</th> 
-	<th>Favorite Color</th> 
+<table> <tr> <th>Brief description</th> 
+	<th>Link to online app</th> 
 	</tr> 
-	<tr> <td>Bob</td> 
-		<td>Yellow</td> 
+	<tr> <td>Clot <a href="#lysis">lysis</a></td> 
+		<td>[clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019){:target="_blank"}</td> 
 	</tr> 
 	<tr> <td>Michelle</td> 
 		<td>Purple</td> 
 	</tr> 
 </table>
 
-Read more: https://html.com/tables/#ixzz5vwEe0i79
+
 
 * Clot <a href="#lysis">lysis</a> 
 Quick link to online app. [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019){:target="_blank"}
