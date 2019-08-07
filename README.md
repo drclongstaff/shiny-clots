@@ -34,5 +34,4 @@ Options are provided for baseline selection and curve fitting to facilitate repr
 	
 ### Thrombin generation
 
-</a>
 
