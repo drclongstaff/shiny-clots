@@ -8,10 +8,10 @@
 
 
 
-<table> <tr> <th>Brief description</th> 
+<table> <tr> <th>Brief description below</th> 
 	<th>Link to online app</th> 
 	</tr> 
-	<tr> <td>Clot <a href="#lysis">lysis</a></td> 
+	<tr> <td><a href="#lysis">clot lysis</a></td> 
 		<td>
 			<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019">clotlysisCL_2019</A>
 		</td> 
