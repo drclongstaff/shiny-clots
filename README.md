@@ -9,6 +9,9 @@
 * Clot lysis 
 [Here](#Clot-lysis)
 
+* Thrombin generation
+[Here](#Thrombin-generation)
+
 
 ##### Clot lysis
 
@@ -26,3 +29,4 @@ The output from a set of clot lysis curves is shown here, along with the results
 
 Options are provided for baseline selection and curve fitting to facilitate reproducible, high throughput analysis
 
+#### Thrombin generation
