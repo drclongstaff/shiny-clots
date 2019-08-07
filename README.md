@@ -20,7 +20,7 @@
 
 * Fibrinolysis halo assasy <a href="#analysis">analysis</a>
 
-* Prekallikrein activator in albumin <a href="#albumin">albumin</a>
+* Prekallikrein activator in <a href="#albumin">albumin</a>
 
 
 
