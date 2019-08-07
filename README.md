@@ -40,6 +40,16 @@
 		<A HREF = "https://drclongstaff.shinyapps.io/zymogenCL" TARGET="_blank">zymogenCL</A>
 		</td> 
 	</tr> 
+	<tr> <td><a href="#kinetics">Michaelis Menten kinetics</a></td> 
+		<td>
+			<A HREF = "https://drclongstaff.shinyapps.io/MichaelisMentenCL" TARGET="_blank">MichaelisMentenCL</A>
+		</td> 
+	</tr> 
+	<tr> <td><a href="#plots">Scatchard plots</a></td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/scatchardCL" TARGET="_blank">ScatchardCL</A>
+		</td> 
+	</tr> 
 </table>
 
 
