@@ -6,7 +6,8 @@
 
 #### These are the apps available
 
-* Clot <a href="#lysis">lysis</a> Quick link to online app. [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019)
+* Clot <a href="#lysis">lysis</a> 
+Quick link to online app. [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019){:target="_blank"}
 
 * Thrombin <a href="#generation">generation</a>
 
