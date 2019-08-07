@@ -40,6 +40,16 @@
 		<A HREF = "https://drclongstaff.shinyapps.io/scatchardCL" TARGET="_blank">ScatchardCL</A>
 		</td> 
 	</tr> 
+	<tr> <td><a href="#analysis">Fibrinolysis halo assays</a></td> 
+		<td>
+			<A HREF = "https://drclongstaff.shinyapps.io/HalolysisCL" TARGET="_blank">HalolysisCL</A>
+		</td> 
+	</tr> 
+	<tr> <td><a href="#albumin">Prekallikrein in albumin</a></td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">PKA_CL</A>
+		</td> 
+	</tr> 
 </table>
 
 
