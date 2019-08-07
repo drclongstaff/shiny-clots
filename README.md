@@ -59,7 +59,7 @@ Detailed help notes are available [here](./docs/TGA_help_notes_2019.pdf){:target
 ### Zymogen activation, for example plasminogen activation assays
 
 <img src="./images/screenCapSq.PNG" alt="zymogen"
-	title="Curves and calculations for zymogen activation" width="650" height="600" />
+	title="Curves and calculations for zymogen activation" width="650" height="800" />
 	
 Detailed help notes are available [here](./docs/ZymogenActn06_help_notes.pdf){:target="_blank"}
 
