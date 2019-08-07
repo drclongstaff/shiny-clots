@@ -19,7 +19,7 @@
 		<td>
 		<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">ThrombinCL</A>
 		</td> 
-	</tr> 
+	 
 	</tr> 
 	<tr> <td><a href="#tests">Screening tests</a></td> 
 		<td>
