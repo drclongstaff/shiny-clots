@@ -76,7 +76,7 @@ Detailed help notes are available [here](./docs/ZymogenActn06_help_notes.pdf){:t
 <a name="analysis"></a>	
 ### Fibrinolysis halo assays
 
- <img src="./images/CurveEg.png" alt="Curve"
+ <img src="./images/curveEg.png" alt="Halo"
 	title="A halo assay curve" width="500" height="400" />
 
 <a name="albumin"></a>	
