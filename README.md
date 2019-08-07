@@ -5,7 +5,9 @@
 
 #### Choose a brief description or follow the online link
 
-<table> <tr> <th>Brief description below</th> 
+<table>
+	<tr> 
+	<th>Brief description below</th> 
 	<th>Link to online app</th> 
 	</tr> 
 	<tr> <td><a href="#lysis">clot lysis</a></td> 
