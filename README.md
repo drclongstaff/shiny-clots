@@ -17,7 +17,9 @@
 		</td> 
 	</tr> 
 	<tr> <td><a href="#generation">Thrombin generation</a></td> 
-		<td>Purple</td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">ThrombinCL</A>
+		</td> 
 	</tr> 
 </table>
 
