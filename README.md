@@ -6,10 +6,10 @@
 
 #### These are the apps available
 
-* Clot < href="lysis">lysis</a> 
+* Clot <a href="#lysis">lysis</a> 
 
-* Thrombin generation
-<a href="#generation">generation</a>
+* Thrombin <a href="#generation">generation</a>
+
 
 
 <a name="lysis"></a>
