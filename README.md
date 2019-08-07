@@ -1,12 +1,9 @@
 ## Welcome to my GitHub Pages
 
-### This site contains links to my Shiny apps that deal with biochemistry, particularly in relation to haemostasis and the clotting and lysis of fibrin.
+### This site contains links to my Shiny apps that deal with biochemical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
 
-### Table of contents
 
 #### Choose a brief description or follow the online link
-
-
 
 <table> <tr> <th>Brief description below</th> 
 	<th>Link to online app</th> 
@@ -22,14 +19,14 @@
 		</td> 
 	</tr> 
 	</tr> 
-	<tr> <td><a href="#lysis">clot lysis</a></td> 
+	<tr> <td><a href="#tests">Screening tests</a></td> 
 		<td>
-			<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">clotlysisCL_2019</A>
+			<A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">ScreeningCL</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#generation">Thrombin generation</a></td> 
+	<tr> <td><a href="#activation">Zymogen activation</a></td> 
 		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">ThrombinCL</A>
+		<A HREF = "https://drclongstaff.shinyapps.io/zymogenCL" TARGET="_blank">zymogenCL</A>
 		</td> 
 	</tr> 
 </table>
