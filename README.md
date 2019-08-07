@@ -55,6 +55,9 @@ Detailed help notes are available [here](./docs/TGA_help_notes_2019.pdf){:target
 <a name="tests"></a>	
 ### Screening tests and false positives, for example with D-dimer assays
 
+ <img src="./images/screening1.PNG" alt="Screening"
+	title="D-dimer test example" width="500" height="400" />
+
 <a name="activation"></a>	
 ### Zymogen activation, for example plasminogen activation assays
 
@@ -72,6 +75,9 @@ Detailed help notes are available [here](./docs/ZymogenActn06_help_notes.pdf){:t
 
 <a name="analysis"></a>	
 ### Fibrinolysis halo assays
+
+ <img src="./images/CurveEg.png" alt="Curve"
+	title="A halo assay curve" width="500" height="400" />
 
 <a name="albumin"></a>	
 ### Prekallikrein activator contamination in albumin or immunoglobulins
