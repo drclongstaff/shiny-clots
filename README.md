@@ -9,6 +9,9 @@
 | 1    |   2  |
 |:----|----:|
 
+<table> <tr> <th>Name</th> <th>Favorite Color</th> </tr> <tr> <td>Bob</td> <td>Yellow</td> </tr> <tr> <td>Michelle</td> <td>Purple</td> </tr> </table>
+
+Read more: https://html.com/tables/#ixzz5vwEe0i79
 
 * Clot <a href="#lysis">lysis</a> 
 Quick link to online app. [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019){:target="_blank"}
