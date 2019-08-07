@@ -10,7 +10,7 @@
 
 * Thrombin <a href="#generation">generation</a>
 
-* Screening <a href="#tests">generation</a>
+* Screening <a href="#tests">tests</a>
 
 
 
