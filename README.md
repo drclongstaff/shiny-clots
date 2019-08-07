@@ -13,7 +13,7 @@
 	</tr> 
 	<tr> <td>Clot <a href="#lysis">lysis</a></td> 
 		<td>
-			[clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019){:target="_blank"}
+			<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019">clotlysisCL_2019</A>
 		</td> 
 	</tr> 
 	<tr> <td>Michelle</td> 
