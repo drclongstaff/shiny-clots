@@ -101,6 +101,11 @@ Detailed help notes are available [here](./docs/ZymogenActn06_help_notes.pdf){:t
 <a name="kinetics"></a>	
 ### Michaelis Menten kinetics and linear transformations
 
+This app analysis Michaelis Menten curves and compares results for various common linear transformations
+
+ <img src="./images/MMcurve.png" alt="MMenten"
+	title="Example MM analysis" width="500" height="500" />
+
 <a name="plots"></a>	
 ### Binding curves and Scatchard plots
 
