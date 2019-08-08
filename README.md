@@ -112,3 +112,9 @@ Detailed help notes are available [here](./docs/ZymogenActn06_help_notes.pdf){:t
 <a name="albumin"></a>	
 ### Prekallikrein activator contamination in albumin or immunoglobulins
 
+This is how the plate looks with background subtraction from the top half of the plate
+
+ <img src="./images/PKA_plots.PNG" alt="Curve"
+	title="PKA plots" width="350" height="300" />
+	
+Detailed help notes are available [here](./docs/PKA_assay_help_notes.pdf){:target="_blank"}
