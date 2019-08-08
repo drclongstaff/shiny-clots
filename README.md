@@ -1,6 +1,7 @@
-## Welcome to my GitHub Pages
+## Welcome to my GitHub Pages  <img src="./images/Cup.PNG" alt="Me"
+	title="Cup winner" width="350" height="300" />
 
-### This site contains links to my Shiny apps that deal with numerical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
+### This site contains links to my Shiny apps that deal with biochemical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
 
 
 #### Choose a brief description or follow the online link
@@ -10,7 +11,7 @@
 	<th>Brief description below</th> 
 	<th>Link to online app</th> 
 	</tr> 
-	<tr> <td><a href="#lysis">clot lysis</a></td> 
+	<tr> <td><a href="#lysis">Clot lysis</a></td> 
 		<td>
 			<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A>
 		</td> 
