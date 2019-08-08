@@ -110,7 +110,7 @@ This app analysis Michaelis Menten curves and compares results for various commo
 ### Binding curves and Scatchard plots
 
  <img src="./images/Binding_scatch.PNG" alt="Scatchard"
-	title="Scatchard transformation" width="400" height="300" />
+	title="Scatchard transformation" width="450" height="350" />
 
 <a name="analysis"></a>	
 ### Fibrinolysis halo assays
