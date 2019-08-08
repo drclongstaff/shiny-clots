@@ -5,6 +5,8 @@
 
 ### This site contains links to my Shiny apps that deal with biochemical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
 
+#### The apps are valuable for standardising analysis methods and promoting reproducible results.  These aspects, and further descriptions of the usefulness of the apps have been published in the 
+<A HREF = "<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">Journal of Thrombosis and Haemostasis</A>" TARGET="_blank">ClotlysisCL_2019</A>
 
 #### Choose a brief description or follow the link to use the app
 
