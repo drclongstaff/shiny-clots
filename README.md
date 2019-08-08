@@ -110,13 +110,13 @@ This app analysis Michaelis Menten curves and compares results for various commo
 ### Binding curves and Scatchard plots
 
  <img src="./images/Binding_scatch.PNG" alt="Scatchard"
-	title="Scatchard transformation" width="350" height="250" />
+	title="Scatchard transformation" width="400" height="300" />
 
 <a name="analysis"></a>	
 ### Fibrinolysis halo assays
 
  <img src="./images/curveEg.png" alt="Halo"
-	title="A halo assay curve" width="500" height="400" />
+	title="A halo assay curve" width="400" height="300" />
 
 <a name="albumin"></a>	
 ### Prekallikrein activator contamination in albumin or immunoglobulins
