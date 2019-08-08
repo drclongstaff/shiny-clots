@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages  
 
-<img src="./images/Cup.PNG" alt="Me"
+<img src="./images/CupTrim.PNG" alt="Me"
 	title="Cup winner" width="200" height="275" />
 
 ### This site contains links to my Shiny apps that deal with biochemical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
