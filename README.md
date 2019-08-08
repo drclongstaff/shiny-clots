@@ -7,7 +7,7 @@
 
 #### The apps are valuable for standardising analysis methods and promoting reproducible results.  These aspects, and further descriptions of the usefulness of the apps have been published in the 
 
-<A HREF = "<A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/jth.13656" TARGET="_blank">Journal of Thrombosis and Haemostasis</A>" 
+<A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/jth.13656" TARGET="_blank">Journal of Thrombosis and Haemostasis</A>
 
 #### Choose a brief description or follow the link to use the app
 
