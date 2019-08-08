@@ -6,7 +6,7 @@
 ### This site contains links to my Shiny apps that deal with biochemical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
 
 
-#### Choose a brief description or follow the online link
+#### Choose a brief description or follow the link to use the app
 
 <table>
 	<tr> 
