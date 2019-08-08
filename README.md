@@ -115,6 +115,6 @@ Detailed help notes are available [here](./docs/ZymogenActn06_help_notes.pdf){:t
 This is how the plate looks with background subtraction from the top half of the plate
 
  <img src="./images/PKA_plots.PNG" alt="Curve"
-	title="PKA plots" width="350" height="300" />
+	title="PKA plots" width="500" height="400" />
 	
 Detailed help notes are available [here](./docs/PKA_assay_help_notes.pdf){:target="_blank"}
