@@ -73,9 +73,11 @@ The output from a set of clot lysis curves is shown here, along with the results
 
 Options are provided for baseline selection and curve fitting to facilitate reproducible, high throughput analysis
 
-This is a link to the online app, please try it out [clotlysis_2019](https://drclongstaff.shinyapps.io/clotlysisCL_2019)
+This is a link to the online app, please try it out <A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A>
 
 Detailed help notes are also available [here](./docs/Clotlysis_CL_help_notes_2019.pdf){:target="_blank"}
+
+Return to <a href="#top">top</a>
 
 <a name="generation"></a>	
 ### Thrombin generation
