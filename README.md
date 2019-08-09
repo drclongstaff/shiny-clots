@@ -87,8 +87,6 @@ Return to <a href="#top">top</a>
  <img src="./images/CaptureCurve.PNG" alt="Curve"
 	title="Thrombin generation curve" width="500" height="400" />
 
-Detailed help notes are available [here](./docs/TGA_help_notes_2019.pdf){:target="_blank"}
-
 Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2019.pdf" TARGET="_blank">here</A>
 
 <a name="tests"></a>	
@@ -103,7 +101,6 @@ Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2019.pdf" TAR
 <img src="./images/screenCapSq.png" alt="zymogen"
 	title="Curves and calculations for zymogen activation" width="602" height="826" />
 	
-Detailed help notes are available [here](./docs/ZymogenActn06_help_notes.pdf){:target="_blank"}
 
 Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
 
@@ -135,7 +132,6 @@ This is how the plate looks with background subtraction from the top half of the
  <img src="./images/PKA_plots.PNG" alt="Curve"
 	title="PKA plots" width="500" height="400" />
 	
-Detailed help notes are available [here](./docs/PKA_assay_help_notes.pdf){:target="_blank"}
 
 Detailed help notes are available <A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">here</A>
 
