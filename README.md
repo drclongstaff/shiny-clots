@@ -89,11 +89,15 @@ Return to <a href="#top">top</a>
 
 Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2019.pdf" TARGET="_blank">here</A>
 
+Return to <a href="#top">top</a>
+
 <a name="tests"></a>	
 ### Screening tests and false positives, for example with D-dimer assays
 
  <img src="./images/screening1.PNG" alt="Screening"
 	title="D-dimer test example" width="500" height="400" />
+	
+Return to <a href="#top">top</a>
 
 <a name="activation"></a>	
 ### Zymogen activation, for example plasminogen activation assays
@@ -104,6 +108,8 @@ Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2019.pdf" TAR
 
 Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
 
+Return to <a href="#top">top</a>
+
 <a name="kinetics"></a>	
 ### Michaelis Menten kinetics and linear transformations
 
@@ -111,18 +117,24 @@ This app analysis Michaelis Menten curves and compares results for various commo
 
  <img src="./images/MMcurve.PNG" alt="MMenten"
 	title="Example MM analysis" width="500" height="500" />
+	
+Return to <a href="#top">top</a>
 
 <a name="plots"></a>	
 ### Binding curves and Scatchard plots
 
  <img src="./images/Binding_scatch.PNG" alt="Scatchard"
 	title="Scatchard transformation" width="500" height="450" />
+	
+Return to <a href="#top">top</a>
 
 <a name="analysis"></a>	
 ### Fibrinolysis halo assays
 
  <img src="./images/curveEg.png" alt="Halo"
 	title="A halo assay curve" width="400" height="300" />
+	
+Return to <a href="#top">top</a>
 
 <a name="albumin"></a>	
 ### Prekallikrein activator contamination in albumin or immunoglobulins
