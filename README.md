@@ -77,7 +77,7 @@ This is a link to the online app, please try it out <A HREF = "https://drclongst
 
 Detailed help notes are also available [here](./docs/Clotlysis_CL_help_notes_2019.pdf){:target="_blank"}
 
-Detailed help is  <A HREF = "./docs/Clotlysis_CL_help_notes_2019.pdf" TARGET="_blank">here</A>
+Detailed help notes are available <A HREF = "./docs/Clotlysis_CL_help_notes_2019.pdf" TARGET="_blank">here</A>
 
 
 Return to <a href="#top">top</a>
