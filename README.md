@@ -75,7 +75,6 @@ Options are provided for baseline selection and curve fitting to facilitate repr
 
 This is a link to the online app, please try it out <A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A>
 
-Detailed help notes are also available [here](./docs/Clotlysis_CL_help_notes_2019.pdf){:target="_blank"}
 
 Detailed help notes are available <A HREF = "./docs/Clotlysis_CL_help_notes_2019.pdf" TARGET="_blank">here</A>
 
@@ -89,6 +88,8 @@ Return to <a href="#top">top</a>
 	title="Thrombin generation curve" width="500" height="400" />
 
 Detailed help notes are available [here](./docs/TGA_help_notes_2019.pdf){:target="_blank"}
+
+Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2019.pdf" TARGET="_blank">here</A>
 
 <a name="tests"></a>	
 ### Screening tests and false positives, for example with D-dimer assays
@@ -104,6 +105,7 @@ Detailed help notes are available [here](./docs/TGA_help_notes_2019.pdf){:target
 	
 Detailed help notes are available [here](./docs/ZymogenActn06_help_notes.pdf){:target="_blank"}
 
+Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
 
 <a name="kinetics"></a>	
 ### Michaelis Menten kinetics and linear transformations
@@ -134,5 +136,7 @@ This is how the plate looks with background subtraction from the top half of the
 	title="PKA plots" width="500" height="400" />
 	
 Detailed help notes are available [here](./docs/PKA_assay_help_notes.pdf){:target="_blank"}
+
+Detailed help notes are available <A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">here</A>
 
 Return to <a href="#top">top</a>
