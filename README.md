@@ -7,7 +7,7 @@
 
 ### This site contains links to my Shiny apps that deal with biochemical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
 
-#### The apps are written using the Shiny package for R and help standardise methods and promote reproducible analysis.  Further details are published in the <A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/jth.13656" TARGET="_blank">Journal of Thrombosis and Haemostasis</A>
+#### The apps are written using the Shiny package for R to help standardise methods and promote reproducible analysis.  Further details are published in the <A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/jth.13656" TARGET="_blank">Journal of Thrombosis and Haemostasis</A>
 
 <a name="top"></a>
 
@@ -93,6 +93,8 @@ Return to <a href="#top">top</a>
 
 ### Thrombin generation
 
+This app is similar to the clot lysis app, but the names of the parameters extracted from the curvees are different.  For example an initiation level is set to identify the change in thrombin that signifies the end of the lag time.
+
  <img src="./images/CaptureCurve.PNG" alt="Curve"
 	title="Thrombin generation curve" width="500" height="400" />
 
@@ -106,6 +108,8 @@ Return to <a href="#top">top</a>
 
 
 ### Screening tests and false positives, for example with D-dimer assays
+
+This app was designed to help understand how sensitivity, specificity and prevalence affect rates of false positive and negative test result.  It uses some published numbers from D-dimer testing, but is useful for all kinds of screening tests.  The help tab covers some other possible applications.
 
  <img src="./images/screening1.PNG" alt="Screening"
 	title="D-dimer test example" width="500" height="400" />
