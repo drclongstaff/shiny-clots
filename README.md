@@ -97,6 +97,8 @@ This app is similar to the clot lysis app, but the names of the parameters extra
 
  <img src="./images/CaptureCurve.PNG" alt="Curve"
 	title="Thrombin generation curve" width="500" height="400" />
+	
+<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">Try it here</A>
 
 Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2019.pdf" TARGET="_blank">here</A>
 
