@@ -123,8 +123,12 @@ Return to <a href="#top">top</a>
 
 ### Zymogen activation, for example plasminogen activation assays
 
+Clotting and fibrinolysis cascades involve zymogen activation reactions, which are often studied in isolation.  For example reaction mixtures of enzyme (streptokinase), substrate (plasminogen) and chromogenic substrate that is sensitive to the generated plasmin.  The rate of plasmin generation (in other words the activity of streptokinase) can be derived from plots of chromogenic substrate hydroloysis versus time squared.  This app makes these calculations easy to perform.
+
 <img src="./images/screenCapSq.png" alt="zymogen"
 	title="Curves and calculations for zymogen activation" width="602" height="826" />
+	
+The app can be used to calculate rates of simple chromogenic substrate hydroloysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of substrate activation in pM/s
 	
 
 Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
