@@ -3,9 +3,11 @@
 <img src="./images/CupTrim.png" alt="Me"
 	title="Cup winner" width="175" height="250" />
 
+<a href = "mailto: drclongstaff@gmail.com">Contact me</a>
+
 ### This site contains links to my Shiny apps that deal with biochemical analysis, particularly in relation to haemostasis and the clotting and lysis of fibrin.
 
-#### The apps are valuable for standardising methods and promoting reproducible analysis.  Further details are published in the <A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/jth.13656" TARGET="_blank">Journal of Thrombosis and Haemostasis</A>
+#### The apps are written using the Shiny package for R and help standardise methods and promote reproducible analysis.  Further details are published in the <A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/jth.13656" TARGET="_blank">Journal of Thrombosis and Haemostasis</A>
 
 <a name="top"></a>
 
@@ -65,7 +67,7 @@
 <a name="lysis"></a>
 ### Clot lysis
 
-The first Shiny app I developed was designed to facilitate the analysis of fibrin clotting and lysis curves, such as the one shown below. 
+This app was designed to facilitate the analysis of fibrin clotting and lysis curves, such as the one shown below. 
 
  <img src="./images/CurveF10.PNG" alt="Curve"
 	title="Clot lysis curve" width="350" height="300" />
