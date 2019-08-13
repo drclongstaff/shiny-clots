@@ -13,7 +13,7 @@
 
 <hr>
 
-#### In this table choose see a brief description or follow the link to use the apps
+#### Select a brief description of an app or follow the link to use the app online
 
 <table>
 	<tr> 
