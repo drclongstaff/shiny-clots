@@ -8,7 +8,9 @@
 #### The apps are valuable for standardising methods and promoting reproducible analysis.  Further details are published in the <A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/jth.13656" TARGET="_blank">Journal of Thrombosis and Haemostasis</A>
 
 <a name="top"></a>
+
 <hr>
+
 #### In this table choose see a brief description or follow the link to use the apps
 
 <table>
@@ -58,6 +60,8 @@
 	</tr> 
 </table>
 
+<hr>
+
 <a name="lysis"></a>
 ### Clot lysis
 
@@ -81,7 +85,10 @@ Detailed help notes are available <A HREF = "./docs/Clotlysis_CL_help_notes_2019
 
 Return to <a href="#top">top</a>
 
-<a name="generation"></a>	
+<hr>
+
+<a name="generation"></a>
+
 ### Thrombin generation
 
  <img src="./images/CaptureCurve.PNG" alt="Curve"
@@ -91,7 +98,11 @@ Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2019.pdf" TAR
 
 Return to <a href="#top">top</a>
 
+<hr>
+
 <a name="tests"></a>	
+
+
 ### Screening tests and false positives, for example with D-dimer assays
 
  <img src="./images/screening1.PNG" alt="Screening"
@@ -99,7 +110,11 @@ Return to <a href="#top">top</a>
 	
 Return to <a href="#top">top</a>
 
-<a name="activation"></a>	
+<hr>
+
+<a name="activation"></a>
+
+
 ### Zymogen activation, for example plasminogen activation assays
 
 <img src="./images/screenCapSq.png" alt="zymogen"
@@ -110,7 +125,10 @@ Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf
 
 Return to <a href="#top">top</a>
 
+<hr>
+
 <a name="kinetics"></a>	
+
 ### Michaelis Menten kinetics and linear transformations
 
 This app analysis Michaelis Menten curves and compares results for various common linear transformations
@@ -120,13 +138,17 @@ This app analysis Michaelis Menten curves and compares results for various commo
 	
 Return to <a href="#top">top</a>
 
-<a name="plots"></a>	
+<hr>
+
+<a name="plots"></a>
 ### Binding curves and Scatchard plots
 
  <img src="./images/Binding_scatch.PNG" alt="Scatchard"
 	title="Scatchard transformation" width="500" height="450" />
 	
 Return to <a href="#top">top</a>
+
+<hr>
 
 <a name="analysis"></a>	
 ### Fibrinolysis halo assays
@@ -135,6 +157,8 @@ Return to <a href="#top">top</a>
 	title="A halo assay curve" width="400" height="300" />
 	
 Return to <a href="#top">top</a>
+
+<hr>
 
 <a name="albumin"></a>	
 ### Prekallikrein activator contamination in albumin or immunoglobulins
