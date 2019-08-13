@@ -128,7 +128,7 @@ Clotting and fibrinolysis cascades involve zymogen activation reactions, which a
 <img src="./images/screenCapSq.png" alt="zymogen"
 	title="Curves and calculations for zymogen activation" width="602" height="826" />
 	
-The app can be used to calculate rates of simple chromogenic substrate hydroloysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of substrate activation in pM/s
+The app can be used to calculate rates of simple chromogenic substrate hydrolysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of substrate activation in pM/s
 	
 
 Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
@@ -141,7 +141,7 @@ Return to <a href="#top">top</a>
 
 ### Michaelis Menten kinetics and linear transformations
 
-This app analysis Michaelis Menten curves and compares results for various common linear transformations
+This app analyses Michaelis Menten curves by non-linear regression and compares results for various common linear transformations (Lineweaver-Burke, Eadie-Hofstee, etc).  The linear transformations are not recommended to derive Km and Vmax values but may be useful to identify non-standard kinetics.
 
  <img src="./images/MMcurve.PNG" alt="MMenten"
 	title="Example MM analysis" width="500" height="500" />
@@ -152,6 +152,8 @@ Return to <a href="#top">top</a>
 
 <a name="plots"></a>
 ### Binding curves and Scatchard plots
+
+This app is useful for analysing ligand binding isotherms and performing Scatchard transformations.  It also helps optimise experiments as the app will generate binding curves from supplied Kd values and concentration ranges.  There is an option to use total added ligand or free ligand to see what effect this has on the binding curve and derived values.  Sometimes non-standard binding behaviour is mis-identified because the experimentor plots bound and added ligand rather than bound and free ligand.
 
  <img src="./images/Binding_scatch.PNG" alt="Scatchard"
 	title="Scatchard transformation" width="500" height="450" />
