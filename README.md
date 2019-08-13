@@ -98,7 +98,7 @@ This app is similar to the clot lysis app, but the names of the parameters extra
  <img src="./images/CaptureCurve.PNG" alt="Curve"
 	title="Thrombin generation curve" width="500" height="400" />
 	
-<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">Try it here</A>
+<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2019.pdf" TARGET="_blank">here</A>
 
@@ -118,6 +118,7 @@ This app was designed to help understand how sensitivity, specificity and preval
 	
 Return to <a href="#top">top</a>
 
+<A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">Online app is here</A>
 <hr>
 
 <a name="activation"></a>
@@ -131,7 +132,8 @@ Clotting and fibrinolysis cascades involve zymogen activation reactions, which a
 	title="Curves and calculations for zymogen activation" width="602" height="826" />
 	
 The app can be used to calculate rates of simple chromogenic substrate hydrolysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of substrate activation in pM/s
-	
+
+<A HREF = "https://drclongstaff.shinyapps.io/zymogenCL" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
 
@@ -147,7 +149,9 @@ This app analyses Michaelis Menten curves by non-linear regression and compares 
 
  <img src="./images/MMcurve.PNG" alt="MMenten"
 	title="Example MM analysis" width="500" height="500" />
-	
+
+<A HREF = "https://drclongstaff.shinyapps.io/MichaelisMentenCL" TARGET="_blank">Online app is hereL</A>
+
 Return to <a href="#top">top</a>
 
 <hr>
@@ -159,7 +163,9 @@ This app is useful for analysing ligand binding isotherms and performing Scatcha
 
  <img src="./images/Binding_scatch.PNG" alt="Scatchard"
 	title="Scatchard transformation" width="500" height="450" />
-	
+
+<A HREF = "https://drclongstaff.shinyapps.io/scatchardCL" TARGET="_blank">Online app is here</A>
+
 Return to <a href="#top">top</a>
 
 <hr>
@@ -172,6 +178,8 @@ Halo assays were recently developed as an optical method that uses whole blood t
  <img src="./images/curveEg.png" alt="Halo"
 	title="A halo assay curve" width="400" height="300" />
 	
+<A HREF = "https://drclongstaff.shinyapps.io/HalolysisCL" TARGET="_blank">Online app is here</A>
+
 Return to <a href="#top">top</a>
 
 <hr>
@@ -185,7 +193,8 @@ This is how the plate looks with background subtraction from the top half of the
 
  <img src="./images/PKA_plots.PNG" alt="Curve"
 	title="PKA plots" width="500" height="400" />
-	
+
+<A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">here</A>
 
