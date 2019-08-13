@@ -141,7 +141,7 @@ Return to <a href="#top">top</a>
 
 ### Michaelis Menten kinetics and linear transformations
 
-This app analyses Michaelis Menten curves by non-linear regression and compares results for various common linear transformations (Lineweaver-Burke, Eadie-Hofstee, etc).  The linear transformations are not recommended to derive Km and Vmax values but may be useful to identify non-standard kinetics.
+This app analyses Michaelis Menten curves by non-linear regression and compares results for various common linear transformations (Lineweaver-Burk, Eadie-Hofstee, etc).  The linear transformations are not recommended to derive Km and Vmax values but may be useful to identify non-standard kinetics.
 
  <img src="./images/MMcurve.PNG" alt="MMenten"
 	title="Example MM analysis" width="500" height="500" />
@@ -165,6 +165,8 @@ Return to <a href="#top">top</a>
 <a name="analysis"></a>	
 ### Fibrinolysis halo assays
 
+Halo assays were recently developed as an optical method that uses whole blood to measure fibrinolysis reactions.  A 'halo' blood clot is formed around the edge of a microtitre plate and a thrombolytic enzyme is added in solution to the well.  As the clot dissolves, the absorbance increases, hence the shape of the curve shown below.  In this case, as with the clot lysis app above, the time to 50% lysis is used for convenience to measure enzyme activity.
+
  <img src="./images/curveEg.png" alt="Halo"
 	title="A halo assay curve" width="400" height="300" />
 	
@@ -174,6 +176,8 @@ Return to <a href="#top">top</a>
 
 <a name="albumin"></a>	
 ### Prekallikrein activator contamination in albumin or immunoglobulins
+
+
 
 This is how the plate looks with background subtraction from the top half of the plate
 
