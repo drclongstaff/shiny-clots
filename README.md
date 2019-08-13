@@ -116,9 +116,10 @@ This app was designed to help understand how sensitivity, specificity and preval
  <img src="./images/screening1.PNG" alt="Screening"
 	title="D-dimer test example" width="500" height="400" />
 	
+<A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">Online app is here</A>
+
 Return to <a href="#top">top</a>
 
-<A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">Online app is here</A>
 <hr>
 
 <a name="activation"></a>
