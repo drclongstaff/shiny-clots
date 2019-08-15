@@ -151,7 +151,7 @@ This app analyses Michaelis Menten curves by non-linear regression and compares 
  <img src="./images/MMcurve.PNG" alt="MMenten"
 	title="Example MM analysis" width="500" height="500" />
 
-<A HREF = "https://drclongstaff.shinyapps.io/MichaelisMentenCL" TARGET="_blank">Online app is hereL</A>
+<A HREF = "https://drclongstaff.shinyapps.io/MichaelisMentenCL" TARGET="_blank">Online app is here</A>
 
 Return to <a href="#top">top</a>
 
