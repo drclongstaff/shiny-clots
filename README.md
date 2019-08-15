@@ -127,12 +127,12 @@ Return to <a href="#top">top</a>
 
 ### Zymogen activation, for example plasminogen activation assays
 
-Clotting and fibrinolysis cascades involve zymogen activation reactions, which are often studied in isolation.  For example reaction mixtures of enzyme (streptokinase), substrate (plasminogen) and chromogenic substrate that is sensitive to the generated plasmin.  The rate of plasmin generation (in other words the activity of streptokinase) can be derived from plots of chromogenic substrate hydroloysis versus time squared.  This app makes these calculations easy to perform.
+Clotting and fibrinolysis cascades involve zymogen activation reactions, which are often studied in isolation.  For example reaction mixtures of enzyme (e.g. streptokinase), substrate (e.g. plasminogen) and chromogenic substrate that is sensitive to the generated plasmin.  The rate of plasmin generation (in other words the activity of streptokinase) can be derived from plots of chromogenic substrate hydroloysis versus time squared.  This app makes these calculations easy to perform.
 
 <img src="./images/screenCapSq.png" alt="zymogen"
 	title="Curves and calculations for zymogen activation" width="602" height="826" />
 	
-The app can be used to calculate rates of simple chromogenic substrate hydrolysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of substrate activation in pM/s
+The app can be used to calculate rates of simple chromogenic substrate hydrolysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of zymogen activation in pM/s
 
 <A HREF = "https://drclongstaff.shinyapps.io/zymogenCL" TARGET="_blank">Online app is here</A>
 
@@ -174,7 +174,7 @@ Return to <a href="#top">top</a>
 <a name="analysis"></a>	
 ### Fibrinolysis halo assays
 
-Halo assays were recently developed as an optical method that uses whole blood to measure fibrinolysis reactions.  A 'halo' blood clot is formed around the edge of a microtitre plate and a thrombolytic enzyme is added in solution to the well.  As the clot dissolves, the absorbance increases, hence the shape of the curve shown below.  In this case, as with the clot lysis app above, the time to 50% lysis is used for convenience to measure enzyme activity.
+Halo assays were recently developed as an optical method that uses whole blood to measure fibrinolysis reactions.  A 'halo' blood clot is formed around the edge of a microtitre plate well and a thrombolytic enzyme is added in solution to the well.  As the clot dissolves, the absorbance increases, hence the shape of the curve shown below.  In this case, as with the clot lysis app above, the time to 50% lysis can be conveniently used to measure enzyme activity.
 
  <img src="./images/curveEg.png" alt="Halo"
 	title="A halo assay curve" width="400" height="300" />
