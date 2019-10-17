@@ -37,7 +37,7 @@
 	</tr> 
 	<tr> <td><a href="#activation">Zymogen activation</a></td> 
 		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/zymogenCL" TARGET="_blank">ZymogenCL</A>
+		<A HREF = "https://drclongstaff.shinyapps.io/zymogenactnCL" TARGET="_blank">ZymogenCL</A>
 		</td> 
 	</tr> 
 	<tr> <td><a href="#kinetics">Michaelis Menten kinetics</a></td> 
@@ -134,7 +134,7 @@ Clotting and fibrinolysis cascades involve zymogen activation reactions, which a
 	
 The app can be used to calculate rates of simple chromogenic substrate hydrolysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of zymogen activation in pM/s
 
-<A HREF = "https://drclongstaff.shinyapps.io/zymogenCL" TARGET="_blank">Online app is here</A>
+<A HREF = "https://drclongstaff.shinyapps.io/zymogenactnCL" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
 
