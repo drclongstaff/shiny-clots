@@ -172,9 +172,9 @@ Return to <a href="#top">top</a>
 <hr>
 
 <a name="analysis"></a>	
-### Fibrinolysis halo assays
+### Clotting curves or fibrinolysis halo assays
 
-Halo assays were recently developed as an optical method that uses whole blood to measure fibrinolysis reactions.  A 'halo' blood clot is formed around the edge of a microtitre plate well and a thrombolytic enzyme is added in solution to the well.  As the clot dissolves, the absorbance increases, hence the shape of the curve shown below.  In this case, as with the clot lysis app above, the time to 50% lysis can be conveniently used to measure enzyme activity.
+Absorbance curves from assays where fibrinogen or plasma is clotted in microtitre plates are analysed using this app.  The app is a modified version of the Clotlysis app, without the lysis phase.  Fibrinolysis can also be explored using halo assays, which were recently developed as an optical method that uses whole blood to measure fibrin clot breakdown.  A 'halo' blood clot is formed around the edge of a microtitre plate well and a thrombolytic enzyme is added in solution to the well.  In both clotting and halo methods, an increasing absorbance is observed to a maximum and the time to 50% change can be conveniently used to measure enzyme activity on the chosen substrate.  Other options may also be selected.
 
  <img src="./images/Clotcurves.png" alt="Halo"
 	title="A halo assay curve" width="400" height="300" />
