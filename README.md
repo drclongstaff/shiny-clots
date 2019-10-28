@@ -50,9 +50,9 @@
 		<A HREF = "https://drclongstaff.shinyapps.io/scatchardCL" TARGET="_blank">ScatchardCL</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#analysis">Fibrinolysis halo assays</a></td> 
+	<tr> <td><a href="#analysis">Clotting or halo assays</a></td> 
 		<td>
-			<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Clotting or Halo</A>
+			<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Clotting_or_HaloCL</A>
 		</td> 
 	</tr> 
 	<tr> <td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
