@@ -181,7 +181,7 @@ Absorbance curves from assays where fibrinogen or plasma is clotted in microtitr
 	
 <A HREF = "https://drclongstaff.shinyapps.io/HalolysisCL" TARGET="_blank">Online app is here</A>
 
-Detailed help notes are available <A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">here</A>
+Detailed help notes are available <A HREF = "./docs/Clot_or_HaloCL_help_notes_2019.pdf" TARGET="_blank">here</A>
 
 Return to <a href="#top">top</a>
 
