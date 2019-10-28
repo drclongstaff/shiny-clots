@@ -176,7 +176,7 @@ Return to <a href="#top">top</a>
 
 Halo assays were recently developed as an optical method that uses whole blood to measure fibrinolysis reactions.  A 'halo' blood clot is formed around the edge of a microtitre plate well and a thrombolytic enzyme is added in solution to the well.  As the clot dissolves, the absorbance increases, hence the shape of the curve shown below.  In this case, as with the clot lysis app above, the time to 50% lysis can be conveniently used to measure enzyme activity.
 
- <img src="./images/curveEg.png" alt="Halo"
+ <img src="./images/Clotcurves.png" alt="Halo"
 	title="A halo assay curve" width="400" height="300" />
 	
 <A HREF = "https://drclongstaff.shinyapps.io/HalolysisCL" TARGET="_blank">Online app is here</A>
