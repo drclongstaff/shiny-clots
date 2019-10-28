@@ -52,7 +52,7 @@
 	</tr> 
 	<tr> <td><a href="#analysis">Fibrinolysis halo assays</a></td> 
 		<td>
-			<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">HalolysisCL</A>
+			<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Clotting or Halo</A>
 		</td> 
 	</tr> 
 	<tr> <td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
