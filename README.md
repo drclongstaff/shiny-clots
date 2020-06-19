@@ -118,6 +118,10 @@ This app was designed to help understand how sensitivity, specificity and preval
 	
 <A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">Online app is here</A>
 
+There is a related app that deals with Covid-19 testing and includes additional notes and results from population studies on antibody testing.
+
+<A HREF = " https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Link to Covid-19 app</A>
+
 Return to <a href="#top">top</a>
 
 <hr>
