@@ -95,7 +95,7 @@ Return to <a href="#top">top</a>
 
 This app is similar to the clot lysis app, but the names of the parameters extracted from the curves are different.  For example an initiation level is set to identify the change in thrombin that signifies the end of the lag time.
 
- <img src="./images/CaptureCurve.PNG" alt="Curve"
+ <img src="./images/June_19_single_curve.png" alt="Curve"
 	title="Thrombin generation curve" width="500" height="400" />
 	
 <A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">Online app is here</A>
