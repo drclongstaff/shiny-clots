@@ -93,7 +93,7 @@ Return to <a href="#top">top</a>
 
 ### Thrombin generation
 
-This app is similar to the clot lysis app, but the names of the parameters extracted from the curves are different.  For example an initiation level is set to identify the change in thrombin that signifies the end of the lag time.
+This app is similar to the clot lysis app but raw fluorescence data and calibrator data are loaded and the app performs the necessary calculations to generate thrombin generation curves with or without corrections for substrate depletion and inner filter effect, or thrombin-alpha-2-macroglobulin contribution.
 
  <img src="./images/June_19_single_curve.png" alt="Curve"
 	title="Thrombin generation curve" width="500" height="400" />
