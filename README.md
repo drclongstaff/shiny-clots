@@ -100,7 +100,7 @@ This app is similar to the clot lysis app, but the names of the parameters extra
 	
 <A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">Online app is here</A>
 
-Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2019.pdf" TARGET="_blank">here</A>
+Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2020.pdf" TARGET="_blank">here</A>
 
 Return to <a href="#top">top</a>
 
