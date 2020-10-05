@@ -241,22 +241,22 @@ This app is adapted from the screening app described above but contains some dat
 <a name="Covid_base"></a>	
 ### Covid baseline selection for excess deaths
 
-This app is adapted from the screening app described above but contains some data from the work on Covid-19 screening studies.  The problem of test accuracy and disease prevalance is highlighted again.  Screening studies are often performed to find the prevalence of Covid-19 using PCR or antigen tests, or to find the numbers of people previously infected using antibody tests.  However, some idea of prevalence, as well as test sensitivity and specificity, are needed in order to interpret test results. How these factors affect false negative and false positive results can be explored using this app.
+Excess deaths a said to be a reliable indicator of the scale of the Covid-19 pandemic as they avoid questions around diagnosis.  However, excess has to counted above a baseline and selection of the year or years for the baseline can vary.  In this app data have been taken from the Office of National Statistics for England and Wales for deaths by month from 2010-2020.  Excess deaths can be calculated using the mean deaths for each month for 10 years (2010-2019) or 5 years (2015-2019) or for each individual year.  The selection of base year can be seen to have a significant effect on the excess death calculation. The graphical output on the plots tab can be shown as a dodged or stacked bar plot.  Dodged is useful as it shows how different the deaths are for each month which can be seen in the more commonly published stacked plots.
 
 
  <img src="./images/October_5_Covid_Base.png" alt="Base"
-	title="Covid 19 baseline selection for excess deaths" width="700" height="500" />
+	title="Covid 19 baseline selection for excess deaths" width="800" height="500" />
 
 <A HREF = "https://drclongstaff.shinyapps.io/Covid19CL_2020/" TARGET="_blank">Online app is here</A>
 
-<A HREF = "<a name="Covid_country"></a>	
+<a name="Covid_country"></a>	
 ### Covid excess deaths by country and region
 
-This app is adapted from the screening app described above but contains some data from the work on Covid-19 screening studies.  The problem of test accuracy and disease prevalance is highlighted again.  Screening studies are often performed to find the prevalence of Covid-19 using PCR or antigen tests, or to find the numbers of people previously infected using antibody tests.  However, some idea of prevalence, as well as test sensitivity and specificity, are needed in order to interpret test results. How these factors affect false negative and false positive results can be explored using this app.
+This app allows data for different countries and regions to be analysed to compared excess deaths. For the baseline year, all data are used before 2020 to give a mean expected deaths for each month.  This was found to give the best results in the previous app for England and Wales.  However, the data used in this app (which come from the Financial Times) do not have this time period for every country or region, but all available years are used. Available data and calculated results are presented in the data tabs.  The plot tab shows deaths for each month for baseline over a whole year and available data for 2020.  Selection of the weeks of the Covid peak is important for calculating the most likely excess deaths.  Some observations and a summary table are presented in the help notes tab.
 
 
  <img src="./images/October_4_Covid.png" alt="Test"
-	title="PKA plots" width="500" height="400" />
+	title="PKA plots" width="800" height="500" />
 
 <A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL/" TARGET="_blank">Online app is here</A>
 
