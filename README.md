@@ -64,9 +64,9 @@
 		<th>Covid-19 resources</th>
 		<th>Link</th>
 	</tr>
-	<tr> <td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
+	<tr> <td><a href="#Covid_test">Covid screening tests</a></td> 
 		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">PKA_CL</A>
+		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A>
 		</td> 
 	</tr> 
 </table>
@@ -215,3 +215,21 @@ This is how the plate looks with background subtraction from the top half of the
 Detailed help notes are available <A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">here</A>
 
 Return to <a href="#top">top</a>
+<hr>
+
+<a name="Covid_test"></a>	
+### Prekallikrein activator contamination in albumin or immunoglobulins
+
+Prekallikrein activator (PKA) is a contaminant in therapeutic albumin solutions and can be measured in a zymogen activation assay where PKA acts on a substrate (PKS) to generate kallikrein, which hydrolyses a chromogenic substrate.  This app has more options that the zymogen activation app above because it allows the user to automatically subtract absorbance from wells without PKS from test wells with PKS.  This step removes the contribution of pre-existing kallikrein, which is not of interest.
+
+This is how the plate looks with background subtraction from the top half of the plate
+
+ <img src="./images/PKA_plots.PNG" alt="Curve"
+	title="PKA plots" width="500" height="400" />
+
+<A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">Online app is here</A>
+
+Detailed help notes are available <A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">here</A>
+
+Return to <a href="#top">top</a>
+
