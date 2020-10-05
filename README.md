@@ -69,6 +69,16 @@
 		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A>
 		</td> 
 	</tr> 
+	<tr> <td><a href="#Covid_test">Covid screening tests</a></td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A>
+		</td> 
+	</tr> 
+	<tr> <td><a href="#Covid_test">Covid screening tests</a></td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A>
+		</td> 
+	</tr> 
 </table>
 
 <hr>
