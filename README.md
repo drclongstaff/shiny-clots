@@ -74,9 +74,9 @@
 		<A HREF = "https://drclongstaff.shinyapps.io/Covid19CL_2020/" TARGET="_blank">Covid_baseline</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#Covid_country">Covid screening tests</a></td> 
+	<tr> <td><a href="#Covid_country">Covid regional excess deaths</a></td> 
 		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_country</A>
+		<A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL//" TARGET="_blank">Covid_country</A>
 		</td> 
 	</tr> 
 </table>
