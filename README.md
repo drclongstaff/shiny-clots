@@ -224,7 +224,7 @@ This app is adapted from the screening app described above but contains some dat
 
 This is how the plate looks with background subtraction from the top half of the plate
 
- <img src="./images/October_5_Covid_test.PNG" alt="Curve"
+ <img src="./images/October_5_Covid_test.png" alt="Test"
 	title="PKA plots" width="500" height="400" />
 
 <A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Online app is here</A>
