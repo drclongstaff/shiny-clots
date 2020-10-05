@@ -76,7 +76,7 @@
 	</tr> 
 	<tr> <td><a href="#Covid_country">Covid regional excess deaths</a></td> 
 		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL//" TARGET="_blank">Covid_country</A>
+		<A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL//" TARGET="_blank">Covid_FirstWave</A>
 		</td> 
 	</tr> 
 </table>
@@ -250,9 +250,9 @@ Excess deaths are said to be a reliable indicator of the scale of the Covid-19 p
 <A HREF = "https://drclongstaff.shinyapps.io/Covid19CL_2020/" TARGET="_blank">Online app is here</A>
 
 <a name="Covid_country"></a>	
-### Covid excess deaths by country and region
+### Covid excess deaths by country and region in the first wave of spring 2020
 
-This app allows data for different countries and regions to be analysed to compared excess deaths. For the baseline year, all data are used before 2020 to give a mean expected deaths for each month.  This was found to give the best results in the previous app for England and Wales.  However, the data used in this app (which come from the Financial Times) do not have this same time period for every country or region, and so all available years are used. Available data and calculated results are presented in the deaths data tabs.  The plot tab shows deaths for each month over a whole year for the baseline and for available data for 2020.  Selection of the weeks of the Covid peak (grey box on the plot) is important for calculating the most likely excess deaths.  Some observations and a summary table are presented in the help notes tab.
+This app allows data for different countries and regions to be analysed to compare excess deaths. All data present ( downloaded from the Financial Times) before 2020 for each country were used to calculate baseline expected deaths for each month.  However, these data do not include the same time period for every country, so all available years were used. Available data and calculated results are presented in the deaths data tabs.  The plot tab shows deaths for each month over a whole year for the baseline and for available data for 2020.  Selection of the weeks of the Covid peak (grey box on the plot) is important for calculating the most likely excess deaths.  Some observations and a summary table are presented in the Help notes tab.
 
 
  <img src="./images/October_4_Covid.png" alt="Test"
