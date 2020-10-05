@@ -69,14 +69,14 @@
 		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#Covid_test">Covid screening tests</a></td> 
+	<tr> <td><a href="#Covid_base">Covid baseline selection</a></td> 
 		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A>
+		<A HREF = "https://drclongstaff.shinyapps.io/Covid19CL_2020/" TARGET="_blank">Covid_baseline</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#Covid_test">Covid screening tests</a></td> 
+	<tr> <td><a href="#Covid_country">Covid screening tests</a></td> 
 		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A>
+		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_country</A>
 		</td> 
 	</tr> 
 </table>
@@ -238,6 +238,29 @@ This is how the plate looks with background subtraction from the top half of the
 	title="PKA plots" width="500" height="400" />
 
 <A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Online app is here</A>
+
+<a name="Covid_base"></a>	
+### Covid baseline selection for excess deaths
+
+This app is adapted from the screening app described above but contains some data from the work on Covid-19 screening studies.  The problem of test accuracy and disease prevalance is highlighted again.  Screening studies are often performed to find the prevalence of Covid-19 using PCR or antigen tests, or to find the numbers of people previously infected using antibody tests.  However, some idea of prevalence, as well as test sensitivity and specificity, are needed in order to interpret test results. How these factors affect false negative and false positive results can be explored using this app.
+
+This is how the plate looks with background subtraction from the top half of the plate
+
+ <img src="./images/October_5_Covid_test.png" alt="Test"
+	title="PKA plots" width="500" height="400" />
+
+<A HREF = "<a name="Covid_country"></a>	
+### Covid screening tests
+
+This app is adapted from the screening app described above but contains some data from the work on Covid-19 screening studies.  The problem of test accuracy and disease prevalance is highlighted again.  Screening studies are often performed to find the prevalence of Covid-19 using PCR or antigen tests, or to find the numbers of people previously infected using antibody tests.  However, some idea of prevalence, as well as test sensitivity and specificity, are needed in order to interpret test results. How these factors affect false negative and false positive results can be explored using this app.
+
+This is how the plate looks with background subtraction from the top half of the plate
+
+ <img src="./images/October_5_Covid_test.png" alt="Test"
+	title="PKA plots" width="500" height="400" />
+
+<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Online app is here</A>
+" TARGET="_blank">Online app is here</A>
 
 
 Return to <a href="#top">top</a>
