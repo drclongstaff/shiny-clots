@@ -63,6 +63,11 @@
 	<tr> 
 		<th>Covid-19 resources</th>
 		<th>Link</th>
+	</tr>
+	<tr> <td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">PKA_CL</A>
+		</td> 
 	</tr> 
 </table>
 
