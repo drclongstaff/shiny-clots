@@ -218,18 +218,17 @@ Return to <a href="#top">top</a>
 <hr>
 
 <a name="Covid_test"></a>	
-### Prekallikrein activator contamination in albumin or immunoglobulins
+### Covid screening tests
 
-Prekallikrein activator (PKA) is a contaminant in therapeutic albumin solutions and can be measured in a zymogen activation assay where PKA acts on a substrate (PKS) to generate kallikrein, which hydrolyses a chromogenic substrate.  This app has more options that the zymogen activation app above because it allows the user to automatically subtract absorbance from wells without PKS from test wells with PKS.  This step removes the contribution of pre-existing kallikrein, which is not of interest.
+This app is adapted from the screeing app described above but contains some data from the work on Covid-19 screening studies.  The problem of test accuracy and disease prevalance is highlighted again.  Screening studies are often performed to find the prevalence of Covid-19 using PCR or antigen tests, or to find the numbers of people previously infected using antibody tests.  However, some idea of prevalence, as well as test sensitivity and specificity, are needed in order to interpret test results. How these factors affect false negative and false positive results can be explored using this app.
 
 This is how the plate looks with background subtraction from the top half of the plate
 
  <img src="./images/PKA_plots.PNG" alt="Curve"
 	title="PKA plots" width="500" height="400" />
 
-<A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">Online app is here</A>
+<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Online app is here</A>
 
-Detailed help notes are available <A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">here</A>
 
 Return to <a href="#top">top</a>
 
