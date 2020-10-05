@@ -60,6 +60,9 @@
 		<A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">PKA_CL</A>
 		</td> 
 	</tr> 
+	<tr> 
+		<th>Covid-19 resources</th>
+	</tr> 
 </table>
 
 <hr>
