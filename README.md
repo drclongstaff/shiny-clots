@@ -62,6 +62,7 @@
 	</tr> 
 	<tr> 
 		<th>Covid-19 resources</th>
+		<th>Link</th>
 	</tr> 
 </table>
 
