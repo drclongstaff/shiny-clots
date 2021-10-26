@@ -266,7 +266,7 @@ This app allows data for different countries and regions to be analysed to compa
 This app uses data from Our World in Data and opens with UK daily and cumulative deaths. The same results for a second country, selected from the dropdown menu, are overlaid on the UK data. The second country can be filtered by continent. Tabs are also available to show the latest results for daily cases and daily deaths.  Column charts are generated for best and worst overall deaths, or daily cases, for the selected continent in the appropriate tabs. 
 
 
- <img src="./images/October_4_Covid.png" alt="Test"
+ <img src="./images/Top_cases_Covid" alt="CovidUK"
 	title="PKA plots" width="800" height="500" />
 
 <A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL/" TARGET="_blank">Online app is here</A>
