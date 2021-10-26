@@ -260,6 +260,15 @@ This app allows data for different countries and regions to be analysed to compa
 
 <A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL/" TARGET="_blank">Online app is here</A>
 
+<a name="Covid_country"></a>	
+### Covid comparing deaths and cases in the UK and other countries
 
+This app allows data for different countries and regions to be analysed to compare excess deaths. All data present (downloaded from the Financial Times) pre-2020 for each country were used to calculate baseline expected deaths for each month.  However, these data do not include the same time period for every country.  Available years and calculated results are presented in the deaths data tabs.  The plot tab shows deaths for each month over a whole year for the baseline and for first wave data for 2020.  Selection of the start and end of the Covid peak (grey box on the plot) influences the calculation of overall excess deaths.  Some observations and a summary table are presented in the Help notes tab.
+
+
+ <img src="./images/October_4_Covid.png" alt="Test"
+	title="PKA plots" width="800" height="500" />
+
+<A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL/" TARGET="_blank">Online app is here</A>
 Return to <a href="#top">top</a>
 
