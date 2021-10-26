@@ -263,7 +263,7 @@ This app allows data for different countries and regions to be analysed to compa
 <a name="Covid_country"></a>	
 ### Covid comparing deaths and cases in the UK and other countries
 
-This app allows data for different countries and regions to be analysed to compare excess deaths. All data present (downloaded from the Financial Times) pre-2020 for each country were used to calculate baseline expected deaths for each month.  However, these data do not include the same time period for every country.  Available years and calculated results are presented in the deaths data tabs.  The plot tab shows deaths for each month over a whole year for the baseline and for first wave data for 2020.  Selection of the start and end of the Covid peak (grey box on the plot) influences the calculation of overall excess deaths.  Some observations and a summary table are presented in the Help notes tab.
+This app uses data from Our World in Data and opens with UK daily and cumulative deaths. The same results for a second country, selected from the dropdown menu, are overlaid on the UK data. The second country can be filtered by continent. Tabs are also available to show the latest results for daily cases and daily deaths.  Column charts are generated for best and worst overall deaths, or daily cases, for the selected continent in the appropriate tabs. 
 
 
  <img src="./images/October_4_Covid.png" alt="Test"
