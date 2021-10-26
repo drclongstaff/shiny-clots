@@ -269,6 +269,6 @@ This app uses data from Our World in Data and opens with UK daily and cumulative
  <img src="./images/Top_cases_Covid.png" alt="CovidUK"
 	title="PKA plots" width="800" height="500" />
 
-<A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL/" TARGET="_blank">Online app is here</A>
+<A HREF = " https://drclongstaff.shinyapps.io/Covid_UK/" TARGET="_blank">Online app is here</A>
 Return to <a href="#top">top</a>
 
