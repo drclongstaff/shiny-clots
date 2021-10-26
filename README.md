@@ -76,7 +76,12 @@
 	</tr> 
 	<tr> <td><a href="#Covid_country">Covid regional excess deaths</a></td> 
 		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL//" TARGET="_blank">Covid_FirstWave</A>
+		<A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL/" TARGET="_blank">Covid_FirstWave</A>
+		</td> 
+	</tr> 
+	<tr> <td><a href="#Covid_UK">Covid regional excess deaths</a></td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL/" TARGET="_blank">Covid_FirstWave</A>
 		</td> 
 	</tr> 
 </table>
@@ -260,7 +265,7 @@ This app allows data for different countries and regions to be analysed to compa
 
 <A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL/" TARGET="_blank">Online app is here</A>
 
-<a name="Covid_country"></a>	
+<a name="Covid_UK"></a>	
 ### Covid comparing deaths and cases in the UK and other countries
 
 This app uses data from Our World in Data and opens with UK daily and cumulative deaths. The same results for a second country, selected from the dropdown menu, are overlaid on the UK data. The second country can be filtered by continent. Tabs are also available to show the latest results for daily cases and daily deaths.  Column charts are generated for best and worst overall deaths, or daily cases, for the selected continent in the appropriate tabs. 
