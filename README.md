@@ -25,7 +25,7 @@
 			<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#lysis">Simple clot lysis</a></td> 
+	<tr> <td><a href="#simple_lysis">Simple clot lysis</a></td> 
 		<td>
 			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotlysis_app" TARGET="_blank">Simple_Clotlysis</A>
 		</td> 
@@ -117,6 +117,8 @@ This is a link to the online app, please try it out <A HREF = "https://drclongst
 
 
 Detailed help notes are available <A HREF = "./docs/Clotlysis_CL_help_notes_2019.pdf" TARGET="_blank">here</A>
+
+<a name="lysis"></a>
 
 There is an updated simplified app available to analyse clot lysis curves. There are fewer options for manipulating the curves but the app can handle awkward data better, including empty wells or noisy responses. 
 
