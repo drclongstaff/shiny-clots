@@ -118,6 +118,9 @@ This is a link to the online app, please try it out <A HREF = "https://drclongst
 
 Detailed help notes are available <A HREF = "./docs/Clotlysis_CL_help_notes_2019.pdf" TARGET="_blank">here</A>
 
+There is an updated simplified app available to analyse clot lysis curves. There are fewer options for manipulating the curves but the app can handle awkward data better, including empty wells or noisy responses. 
+
+Please try it out: <A HREF = "https://drclongstaff.shinyapps.io/Simple_clotlysis_app" TARGET="_blank">Simple_Clotlysis</A>
 
 Return to <a href="#top">top</a>
 
