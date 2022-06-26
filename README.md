@@ -27,7 +27,7 @@
 	</tr> 
 	<tr> <td><a href="#lysis">Clot lysis</a></td> 
 		<td>
-			<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A>
+			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotlysis_app" TARGET="_blank">Simple_Clotlysis</A>
 		</td> 
 	</tr> 
 	<tr> <td><a href="#generation">Thrombin generation</a></td> 
