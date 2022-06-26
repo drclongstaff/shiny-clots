@@ -152,6 +152,7 @@ Please try it out: <A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_
 Return to <a href="#top">top</a>
 
 <hr>
+
 ### Thrombin generation
 
 This app is similar to the clot lysis app but raw fluorescence data and calibrator data are loaded and the app performs the necessary calculations to generate thrombin generation curves with or without corrections for substrate depletion and inner filter effect, or thrombin-alpha-2-macroglobulin contribution.
