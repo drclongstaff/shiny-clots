@@ -60,7 +60,7 @@
 			<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Clotting_or_HaloCL</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#analysis">Simple clotting analysis</a></td> 
+	<tr> <td><a href="#simple_clot">Simple clotting analysis</a></td> 
 		<td>
 			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
 		</td> 
@@ -225,6 +225,13 @@ Absorbance curves from assays where fibrinogen or plasma is clotted in microtitr
 <A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/Clot_or_HaloCL_help_notes_2019.pdf" TARGET="_blank">here</A>
+
+<a name="simple_clot"></a>
+
+There is an updated simplified app available to analyse clotting curves. There are fewer options for manipulating the curves but the app can handle awkward data better, including empty wells or noisy responses. 
+
+Please try it out: <A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
+
 
 Return to <a href="#top">top</a>
 
