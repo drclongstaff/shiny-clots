@@ -55,7 +55,6 @@
 			<A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">ScreeningCL</A>
 		</td> 
 	</tr> 
-	
 	<tr> <td><a href="#kinetics">Michaelis Menten kinetics</a></td> 
 		<td>
 			<A HREF = "https://drclongstaff.shinyapps.io/MichaelisMentenCL" TARGET="_blank">MichaelisMentenCL</A>
@@ -66,7 +65,6 @@
 		<A HREF = "https://drclongstaff.shinyapps.io/scatchardCL" TARGET="_blank">ScatchardCL</A>
 		</td> 
 	</tr> 
-	
 	<tr> <td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
 		<td>
 		<A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">PKA_CL</A>
