@@ -153,6 +153,23 @@ Return to <a href="#top">top</a>
 
 <hr>
 
+### Zymogen activation, for example plasminogen activation assays
+
+Clotting and fibrinolysis cascades involve zymogen activation reactions, which are often studied in isolation.  For example reaction mixtures of enzyme (e.g. streptokinase), substrate (e.g. plasminogen) and chromogenic substrate that is sensitive to the generated plasmin.  The rate of plasmin generation (in other words the activity of streptokinase) can be derived from plots of chromogenic substrate hydroloysis versus time squared.  This app makes these calculations easy to perform.
+
+<img src="./images/screenCapSq.png" alt="zymogen"
+	title="Curves and calculations for zymogen activation" width="602" height="826" />
+	
+The app can be used to calculate rates of simple chromogenic substrate hydrolysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of zymogen activation in pM/s
+
+<A HREF = "https://drclongstaff.shinyapps.io/zymogenactnCL" TARGET="_blank">Online app is here</A>
+
+Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
+
+Return to <a href="#top">top</a>
+
+<hr>
+
 ### Thrombin generation
 
 This app is similar to the clot lysis app but raw fluorescence data and calibrator data are loaded and the app performs the necessary calculations to generate thrombin generation curves with or without corrections for substrate depletion and inner filter effect, or thrombin-alpha-2-macroglobulin contribution.
@@ -191,22 +208,7 @@ Return to <a href="#top">top</a>
 <a name="activation"></a>
 
 
-### Zymogen activation, for example plasminogen activation assays
 
-Clotting and fibrinolysis cascades involve zymogen activation reactions, which are often studied in isolation.  For example reaction mixtures of enzyme (e.g. streptokinase), substrate (e.g. plasminogen) and chromogenic substrate that is sensitive to the generated plasmin.  The rate of plasmin generation (in other words the activity of streptokinase) can be derived from plots of chromogenic substrate hydroloysis versus time squared.  This app makes these calculations easy to perform.
-
-<img src="./images/screenCapSq.png" alt="zymogen"
-	title="Curves and calculations for zymogen activation" width="602" height="826" />
-	
-The app can be used to calculate rates of simple chromogenic substrate hydrolysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of zymogen activation in pM/s
-
-<A HREF = "https://drclongstaff.shinyapps.io/zymogenactnCL" TARGET="_blank">Online app is here</A>
-
-Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
-
-Return to <a href="#top">top</a>
-
-<hr>
 
 <a name="kinetics"></a>	
 
