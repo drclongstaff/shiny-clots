@@ -130,6 +130,28 @@ Return to <a href="#top">top</a>
 
 <a name="generation"></a>
 
+<a name="analysis"></a>	
+### Clotting curves or fibrinolysis halo assays
+
+Absorbance curves from assays where fibrinogen or plasma is clotted in microtitre plates are analysed using this app.  The app is a modified version of the Clotlysis app, without the lysis phase.  Fibrinolysis can also be explored using halo assays, which were recently developed as an optical method that uses whole blood to measure fibrin clot breakdown.  A 'halo' blood clot is formed around the edge of a microtitre plate well and a thrombolytic enzyme is added in solution to the well.  In both clotting and halo methods, an increasing absorbance is observed to a maximum and the time to 50% change can be conveniently used to measure enzyme activity on the chosen substrate.  Other options may also be selected.
+
+ <img src="./images/Clotcurves.png" alt="Halo"
+	title="A halo assay curve" width="400" height="300" />
+	
+<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Online app is here</A>
+
+Detailed help notes are available <A HREF = "./docs/Clot_or_HaloCL_help_notes_2019.pdf" TARGET="_blank">here</A>
+
+<a name="simple_clot"></a>
+
+There is an updated simplified app available to analyse clotting curves. There are fewer options for manipulating the curves but the app can handle awkward data better, including empty wells or noisy responses. 
+
+Please try it out: <A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
+
+
+Return to <a href="#top">top</a>
+
+<hr>
 ### Thrombin generation
 
 This app is similar to the clot lysis app but raw fluorescence data and calibrator data are loaded and the app performs the necessary calculations to generate thrombin generation curves with or without corrections for substrate depletion and inner filter effect, or thrombin-alpha-2-macroglobulin contribution.
@@ -214,28 +236,7 @@ Return to <a href="#top">top</a>
 
 <hr>
 
-<a name="analysis"></a>	
-### Clotting curves or fibrinolysis halo assays
 
-Absorbance curves from assays where fibrinogen or plasma is clotted in microtitre plates are analysed using this app.  The app is a modified version of the Clotlysis app, without the lysis phase.  Fibrinolysis can also be explored using halo assays, which were recently developed as an optical method that uses whole blood to measure fibrin clot breakdown.  A 'halo' blood clot is formed around the edge of a microtitre plate well and a thrombolytic enzyme is added in solution to the well.  In both clotting and halo methods, an increasing absorbance is observed to a maximum and the time to 50% change can be conveniently used to measure enzyme activity on the chosen substrate.  Other options may also be selected.
-
- <img src="./images/Clotcurves.png" alt="Halo"
-	title="A halo assay curve" width="400" height="300" />
-	
-<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Online app is here</A>
-
-Detailed help notes are available <A HREF = "./docs/Clot_or_HaloCL_help_notes_2019.pdf" TARGET="_blank">here</A>
-
-<a name="simple_clot"></a>
-
-There is an updated simplified app available to analyse clotting curves. There are fewer options for manipulating the curves but the app can handle awkward data better, including empty wells or noisy responses. 
-
-Please try it out: <A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
-
-
-Return to <a href="#top">top</a>
-
-<hr>
 
 <a name="albumin"></a>	
 ### Prekallikrein activator contamination in albumin or immunoglobulins
