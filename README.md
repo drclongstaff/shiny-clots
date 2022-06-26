@@ -30,31 +30,6 @@
 			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotlysis_app" TARGET="_blank">Simple_Clotlysis</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#generation">Thrombin generation</a></td> 
-		<td>
-			<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">ThrombinCL</A>
-		</td> 
-	</tr>  
-	 <tr> <td><a href="#tests">Screening tests</a></td> 
-		<td>
-			<A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">ScreeningCL</A>
-		</td> 
-	</tr> 
-	<tr> <td><a href="#activation">Zymogen activation</a></td> 
-		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/zymogenactnCL" TARGET="_blank">ZymogenCL</A>
-		</td> 
-	</tr> 
-	<tr> <td><a href="#kinetics">Michaelis Menten kinetics</a></td> 
-		<td>
-			<A HREF = "https://drclongstaff.shinyapps.io/MichaelisMentenCL" TARGET="_blank">MichaelisMentenCL</A>
-		</td> 
-	</tr> 
-	<tr> <td><a href="#plots">Scatchard plots</a></td> 
-		<td>
-		<A HREF = "https://drclongstaff.shinyapps.io/scatchardCL" TARGET="_blank">ScatchardCL</A>
-		</td> 
-	</tr> 
 	<tr> <td><a href="#analysis">Clotting or halo assays</a></td> 
 		<td>
 			<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Clotting_or_HaloCL</A>
@@ -65,6 +40,33 @@
 			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
 		</td> 
 	</tr> 
+	<tr> <td><a href="#activation">Zymogen activation</a></td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/zymogenactnCL" TARGET="_blank">ZymogenCL</A>
+		</td> 
+	</tr> 
+	<tr> <td><a href="#generation">Thrombin generation</a></td> 
+		<td>
+			<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">ThrombinCL</A>
+		</td> 
+	</tr>  
+	 <tr> <td><a href="#tests">Screening tests</a></td> 
+		<td>
+			<A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">ScreeningCL</A>
+		</td> 
+	</tr> 
+	
+	<tr> <td><a href="#kinetics">Michaelis Menten kinetics</a></td> 
+		<td>
+			<A HREF = "https://drclongstaff.shinyapps.io/MichaelisMentenCL" TARGET="_blank">MichaelisMentenCL</A>
+		</td> 
+	</tr> 
+	<tr> <td><a href="#plots">Scatchard plots</a></td> 
+		<td>
+		<A HREF = "https://drclongstaff.shinyapps.io/scatchardCL" TARGET="_blank">ScatchardCL</A>
+		</td> 
+	</tr> 
+	
 	<tr> <td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
 		<td>
 		<A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">PKA_CL</A>
