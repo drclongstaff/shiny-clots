@@ -25,7 +25,7 @@
 			<A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#lysis">Clot lysis</a></td> 
+	<tr> <td><a href="#lysis">Simple clot lysis</a></td> 
 		<td>
 			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotlysis_app" TARGET="_blank">Simple_Clotlysis</A>
 		</td> 
@@ -58,6 +58,11 @@
 	<tr> <td><a href="#analysis">Clotting or halo assays</a></td> 
 		<td>
 			<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Clotting_or_HaloCL</A>
+		</td> 
+	</tr> 
+	<tr> <td><a href="#analysis">Simple clotting analysis</a></td> 
+		<td>
+			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
 		</td> 
 	</tr> 
 	<tr> <td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
