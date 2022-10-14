@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+
 ## Welcome to my GitHub Pages  
 
 <img src="./images/CupTrim.png" alt="Me"
