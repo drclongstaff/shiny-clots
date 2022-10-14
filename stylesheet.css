@@ -1,5 +1,3 @@
-table { width : 500 px; border : 4 px solid DeepPink;
-  caption-side : top ; text-align : centre ; margin : 0 0 30 px ; }
+table { width : 500 px; border : 2 px solid DeepPink; }
 
-td { border : 2 px dashed SpringGreen ;
-  caption-side : top ; text-align : center ; margin : 0 0 30 px ;}
+td { border : 2 px dashed SpringGreen ;}
