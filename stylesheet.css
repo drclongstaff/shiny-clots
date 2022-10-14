@@ -1,2 +1,5 @@
-table { width : 500 px; border : 2px dashed DeepPink;
+table { width : 500 px; border : 2px solid DeepPink;
   caption-side : top ; text-align : centre ; margin : 0 0 30 px ; }
+
+td { border : 2 px: dashed DeepPink;
+  caption-side : top ; text-align : center ; margin 0 0 30 px;}
