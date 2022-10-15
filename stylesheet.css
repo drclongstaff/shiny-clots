@@ -1,2 +1,8 @@
-table { width : 500 px ; border : 2 px dashed DeepPink ;
-caption-side : top ; text-align : center ; margin : 0 0 30 px ;}
+
+body {
+  background-color: MintCream;
+  color: Navy; /* text color */
+}
+
+table { width : 500px ; border : 2px dashed DeepPink ;
+caption-side : top ; text-align : center ; margin : 0 0 30px ;}
