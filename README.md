@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 
-tags$h2("Welcome to my GitHub Pages")
+## Welcome to my GitHub Pages
 
 <img src="./images/CupTrim.png" alt="Me"
 	title="Cup winner" width="175" height="250" />
