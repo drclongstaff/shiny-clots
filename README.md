@@ -116,7 +116,7 @@ Options are provided for baseline selection and curve fitting to facilitate repr
 This is a link to the online app, please try it out <A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A>
 
 
-Detailed help notes are available <A HREF = "./docs/Clotlysis_CL_help_notes_2019.pdf" TARGET="_blank">here</A>
+Detailed help notes are available <A HREF = "./docs/Clotlysis-CL-help-notes-2019.pdf" TARGET="_blank">here</A>
 
 <a name="simple_lysis"></a>
 
