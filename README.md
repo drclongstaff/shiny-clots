@@ -104,10 +104,7 @@
 <a name="lysis"></a>
 ### Clot lysis
 
-This app was designed to facilitate the analysis of fibrin clotting and lysis curves, such as the one shown below. 
-
- <img src="./images/CurveF10.PNG" alt="Curve"
-	title="Clot lysis curve" width="350" height="300" />
+This app was designed to facilitate the analysis of fibrin clotting and lysis curves. 
 
 The output from a set of clot lysis curves is shown here, along with the results for the time to 50% clot lysis. The app makes it easy to extract selected parameters from these curves, such as time to a chosen % lysis, maximum absorbance, area under the curve, etc.
 
