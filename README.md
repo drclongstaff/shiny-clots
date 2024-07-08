@@ -45,7 +45,7 @@
 	</tr> 
 	<tr> <td><a href="#simple_clot">Simple ECLT</a></td> 
 		<td>
-			<A HREF = "https://drclongstaff.shinyapps.io/ECLT_CL" TARGET="_blank">ECLT</A>
+			<A HREF = "https://drclongstaff.github.io/ECLT_CL" TARGET="_blank">ECLT</A>
 		</td> 
 	</tr>
 	<tr> <td><a href="#activation">Zymogen activation</a></td> 
