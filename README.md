@@ -123,8 +123,6 @@ Return to <a href="#top">top</a>
 
 <hr>
 
-<a name="generation"></a>
-
 <a name="analysis"></a>	
 ### Clotting curves or fibrinolysis halo assays
 
@@ -154,7 +152,7 @@ Return to <a href="#top">top</a>
 This is the simplest clotting or lysis app covering only one page and with minimal options for curve adjustments. Results are reported for lysis times at the nearest time point to 50% lysis, without any interpolation between points. It may be suitable for noisy data such as found in Euglobulin Clot Lysis Time (ECLT) curves because wells can be removed from analysis if they cause problems or do not give sensible results. The app has also been simplified because it is written using Shinylive, meaning it is not hosted on a server but runs entirely in the user's browser. This may result in a short delay as the app loads at startup.
 
  <img src="./images/Plots.PNG" alt="ECLT"
-	title="ECLT lysis curves" width="400" height="300" />
+	title="ECLT lysis curves" width="500" height="400" />
  
  <A HREF = "https://drclongstaff.github.io/ECLT_CL" TARGET="_blank">Online app is here</A>
 
@@ -181,8 +179,8 @@ Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf
 Return to <a href="#top">top</a>
 
 <hr>
-<a name="generation"></a>	
 
+<a name="generation"></a>	
 ### Thrombin generation
 
 This app is similar to the clot lysis app but raw fluorescence data and calibrator data are loaded and the app performs the necessary calculations to generate thrombin generation curves with or without corrections for substrate depletion and inner filter effect, or thrombin-alpha-2-macroglobulin contribution.
