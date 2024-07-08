@@ -148,13 +148,15 @@ Return to <a href="#top">top</a>
 
 <hr>
 <a name="ECLT"></a>
+
 ### Simple Euglobulin Clot Lysis Time
 
-This is the most simple app covering only one page and with minimal options for adjustments. Results for lysis times are reported to the nearest time point, without any interpolation. It may be suitable for noisy data such as found in Euglobulin Clot Lysis Time (ECLT) curves because wells can be removed from analysis if they cause problems and do not give sensible results. The app has also been simplified because it is written using Shinylive, meaning it is not hosted on a server but runs entirely in the user's browser. This may result in a small delay as the app loads at startup.
+This is the simplest clotting or lysis app covering only one page and with minimal options for curve adjustments. Results are reported for lysis times at the nearest time point to 50% lysis, without any interpolation between points. It may be suitable for noisy data such as found in Euglobulin Clot Lysis Time (ECLT) curves because wells can be removed from analysis if they cause problems or do not give sensible results. The app has also been simplified because it is written using Shinylive, meaning it is not hosted on a server but runs entirely in the user's browser. This may result in a short delay as the app loads at startup.
 
 <A HREF = "https://drclongstaff.github.io/ECLT_CL" TARGET="_blank">Online app is here</A>
 
-Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
+Detailed help notes are available <A HREF = "./docs/ECLT-app-notes.pdf" TARGET="_blank">here</A>
+<hr>
 
 ### Zymogen activation, for example plasminogen activation assays
 
