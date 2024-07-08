@@ -43,7 +43,7 @@
 			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
 		</td> 
 	</tr> 
-	<tr> <td><a href="#simple_clot">Simple ECLT</a></td> 
+	<tr> <td><a href="#ECLT">Simple ECLT</a></td> 
 		<td>
 			<A HREF = "https://drclongstaff.github.io/ECLT_CL" TARGET="_blank">ECLT</A>
 		</td> 
@@ -147,6 +147,14 @@ Please try it out: <A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_
 Return to <a href="#top">top</a>
 
 <hr>
+<a name="ECLT"></a>
+### Simple Euglobulin Clot Lysis Time
+
+This is the most simple app covering only one page and with minimal options for adjustments. Results for lysis times are reported to the nearest time point, without any interpolation. It may be suitable for noisy data such as found in Euglobulin Clot Lysis Time (ECLT) curves because wells can be removed from analysis if they cause problems and do not give sensible results. The app has also been simplified because it is written using Shinylive, meaning it is not hosted on a server but runs entirely in the user's browser. This may result in a small delay as the app loads at startup.
+
+<A HREF = "https://drclongstaff.github.io/ECLT_CL" TARGET="_blank">Online app is here</A>
+
+Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
 
 ### Zymogen activation, for example plasminogen activation assays
 
