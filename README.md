@@ -81,7 +81,6 @@
 		<td>
 		<A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A>
 		</td> 
-	
 	</tr> 
 	<tr> <td><a href="#Covid_UK">Compare UK Covid data</a></td> 
 		<td>
