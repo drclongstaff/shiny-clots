@@ -159,7 +159,11 @@ This is the simplest clotting or lysis app covering only one page and with minim
  <A HREF = "https://drclongstaff.github.io/ECLT_CL" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/ECLT-app-notes.pdf" TARGET="_blank">here</A>
+
+Return to <a href="#top">top</a>
+
 <hr>
+<a name="activation"></a>	
 
 ### Zymogen activation, for example plasminogen activation assays
 
@@ -177,6 +181,7 @@ Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf
 Return to <a href="#top">top</a>
 
 <hr>
+<a name="generation"></a>	
 
 ### Thrombin generation
 
@@ -277,27 +282,6 @@ This app is adapted from the screening app described above but contains some dat
 
 <A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Online app is here</A>
 
-<a name="Covid_base"></a>	
-### Covid baseline selection for excess deaths
-
-Excess deaths are said to be a reliable indicator of the scale of the Covid-19 pandemic as they avoid questions around diagnosis.  However, excess has to be counted above a baseline and selection of the year or years for the baseline affects the overall excess calculated.  In this app data have been taken from the Office of National Statistics for England and Wales for deaths by month from 2010-2020.  Baseline deaths were calculated using the mean deaths for each month for 10 years (2010-2019) or 5 years (2015-2019) or for each individual year.  The influence of these selections is shown in the figure for overall excess in 2020.  The graphical output on the plots tab can be shown as a dodged or stacked bar plot.  Dodged is useful as it shows how different the deaths are for each month.  The first 10 weeks of the mean deaths for 2010-2019 are seen to be the best fit for the first 10 weeks of 2020 and are a suitable baseline choice.
-
-
- <img src="./images/October_5_Covid_Base.png" alt="Base"
-	title="Covid 19 baseline selection for excess deaths" width="800" height="500" />
-
-<A HREF = "https://drclongstaff.shinyapps.io/Covid19CL_2020/" TARGET="_blank">Online app is here</A>
-
-<a name="Covid_country"></a>	
-### Covid deaths by country and region in the first wave, spring 2020
-
-This app allows data for different countries and regions to be analysed to compare excess deaths. All data present (downloaded from the Financial Times) pre-2020 for each country were used to calculate baseline expected deaths for each month.  However, these data do not include the same time period for every country.  Available years and calculated results are presented in the deaths data tabs.  The plot tab shows deaths for each month over a whole year for the baseline and for first wave data for 2020.  Selection of the start and end of the Covid peak (grey box on the plot) influences the calculation of overall excess deaths.  Some observations and a summary table are presented in the Help notes tab.
-
-
- <img src="./images/October_4_Covid.png" alt="Test"
-	title="PKA plots" width="800" height="500" />
-
-<A HREF = "https://drclongstaff.shinyapps.io/Covid_FirstWaveCL/" TARGET="_blank">Online app is here</A>
 
 <a name="Covid_UK"></a>	
 ### Covid comparing deaths and cases in the UK and other countries
