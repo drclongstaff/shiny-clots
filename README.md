@@ -43,6 +43,11 @@
 			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
 		</td> 
 	</tr> 
+	<tr> <td><a href="#simple_clot">Simple clotting analysis</a></td> 
+		<td>
+			<A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
+		</td> 
+	</tr>
 	<tr> <td><a href="#activation">Zymogen activation</a></td> 
 		<td>
 		<A HREF = "https://drclongstaff.shinyapps.io/zymogenactnCL" TARGET="_blank">ZymogenCL</A>
