@@ -133,7 +133,7 @@ Absorbance curves from assays where fibrinogen or plasma is clotted in microtitr
 	
 <A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Online app is here</A>
 
-Detailed help notes are available <A HREF = "./docs/Clot_or_HaloCL_help_notes_2019.pdf" TARGET="_blank">here</A>
+Detailed help notes are available <A HREF = "./docs/Clot_or_HaloCL-help-notes-2019.pdf" TARGET="_blank">here</A>
 
 <a name="simple_clot"></a>
 
