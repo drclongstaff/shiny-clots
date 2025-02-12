@@ -222,6 +222,7 @@ Return to <a href="#top">top</a>
 
 <hr>
 <a name="albumin"></a>	
+
 ### Prekallikrein activator contamination in albumin or immunoglobulins
 
 Prekallikrein activator (PKA) is a contaminant in therapeutic albumin solutions and can be measured in a zymogen activation assay where PKA acts on a substrate (PKS) to generate kallikrein, which hydrolyses a chromogenic substrate.  This app has more options that the zymogen activation app above because it allows the user to automatically subtract absorbance from wells without PKS from test wells with PKS.  This step removes the contribution of pre-existing kallikrein, which is not of interest.
