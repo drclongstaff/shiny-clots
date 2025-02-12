@@ -19,7 +19,7 @@
 #### Select a brief description of an app or follow the link to use the app online
 
 <table>
-	<tr> 
+		<tr> 
 			<th>Brief description </th> 
 			<th>Link to online app</th> 
 			<th>Document links</th> 
@@ -71,6 +71,14 @@
 			<td><A HREF = "https://youtu.be/bay6ibzkAZ8" TARGET="_blank" >Video</A></td>	
 		</tr> 
 		<tr> 	
+			<td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
+			<td><A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">PKA_CL</A></td>
+			<td><A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">help notes</A>
+			    <A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/vox.12980" TARGET="_blank">publication</A></td>
+			<td><A HREF = "https://youtu.be/meBWsA97CVY" TARGET="_blank" >Video</A></td>	
+
+		</tr> 
+		<tr> 	
 			<td><a href="#generation">Thrombin generation</a></td> 
 			<td><A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">ThrombinCL</A></td>
 			<td><A HREF = "./docs/TGA_help_notes_2020.pdf" TARGET="_blank">help notes</A>
@@ -82,30 +90,29 @@
 		</tr>  
 	 	<tr> 	
 			<td><a href="#tests">Screening tests</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">ScreeningCL</A></td> 
+			<td><A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">ScreeningCL</A></td>
+			<td><A></A></td>
+			<td><A></A></td> 
 		
 			
 		</tr> 
 		<tr> 	
 			<td><a href="#kinetics">Michaelis Menten kinetics</a></td> 
 			<td><A HREF = "https://drclongstaff.shinyapps.io/MichaelisMentenCL" TARGET="_blank">MichaelisMentenCL</A></td>
+			<td><A></A></td>
+			<td><A></A></td> 
 			
 			 
 		</tr> 
 		<tr> 	
 			<td><a href="#plots">Scatchard plots</a></td> 
 			<td><A HREF = "https://drclongstaff.shinyapps.io/scatchardCL" TARGET="_blank">ScatchardCL</A></td>
+			<td><A></A></td>
+			<td><A></A></td> 
 			
 			 
 		</tr> 
-		<tr> 	
-			<td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">PKA_CL</A></td>
-			<td><A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">help notes</A>
-			    <A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/vox.12980" TARGET="_blank">publication</A></td>
-			<td><A HREF = "https://youtu.be/meBWsA97CVY" TARGET="_blank" >Video</A></td>	
-
-		</tr> 
+		
 		<tr> 
 			<th>Covid-19 resources</th>
 			<th>Link</th>
@@ -113,15 +120,19 @@
 		<tr> 	
 			<td><a href="#Covid_test">Covid screening tests</a></td> 
 			<td><A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A></td> 
+			<td><A></A></td>
+			<td><A></A></td> 
 			
 			
 		</tr> 
 		<tr> 	
 			<td><a href="#Covid_UK">Compare UK Covid data</a></td> 
 			<td><A HREF = "https://drclongstaff.shinyapps.io/Covid_UK/" TARGET="_blank">Covid_UK</A></td>
+			<td><A></A></td>
+			<td><A></A></td> 
 			 
 			
-		</tr>  
+		</tr> 
 </table>
 
 <hr>
