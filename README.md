@@ -116,6 +116,8 @@
 		<tr> 
 			<th>Covid-19 resources</th>
 			<th>Link</th>
+			<th></th>
+			<th></th>
 		</tr>
 		<tr> 	
 			<td><a href="#Covid_test">Covid screening tests</a></td> 
