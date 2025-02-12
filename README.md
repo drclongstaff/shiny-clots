@@ -19,122 +19,132 @@
 #### Select a brief description of an app or follow the link to use the app online
 
 <table>
-		<tr> 
-			<th>Brief description </th> 
-			<th>Link to online app</th> 
-			<th>Document links</th> 
-			<th>YouTube </th> 
-		</tr> 
-		
-		<tr> 	
-			<td><A HREF="#lysis">Clot lysis</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A></td> 
-			<td><A HREF = "./docs/Clotlysis-CL-help-notes-2019.pdf" >help notes</A>
-			    <A HREF = "https://doi.org/10.1111/jth.14787" TARGET="_blank">publication</A></td>	
-			<td><A HREF = "https://youtu.be/GCP6sgw10gE" TARGET="_blank" >Video</A></td>
-		</tr> 
+  <thead>
+    <tr>
+      <th>Brief description</th>
+      <th>Link to online app</th>
+      <th>Document links</th>
+      <th>YouTube</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#lysis">Clot lysis</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/clotlysisCL_2019" target="_blank" rel="noopener noreferrer">ClotlysisCL_2019</a></td>
+      <td>
+        <a href="./docs/Clotlysis-CL-help-notes-2019.pdf">help notes</a>
+        <a href="https://doi.org/10.1111/jth.14787" target="_blank" rel="noopener noreferrer">publication</a>
+      </td>
+      <td><a href="https://youtu.be/GCP6sgw10gE" target="_blank" rel="noopener noreferrer">Video</a></td>
+    </tr>
 
-		<tr> 	
-			<td><a href="#simple_lysis">Simple clot lysis</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/Simple_clotlysis_app" TARGET="_blank">Simple_Clotlysis</A></td>
-			<td><A></A></td>
-			<td><A HREF = "https://youtu.be/r0S3FmNwCPk" TARGET="_blank" >Video</A></td>
-			 
-		</tr> 
-		<tr> 	
-			<td><a href="#analysis">Clotting or halo assays</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Clotting_or_HaloCL</A></td>    
-			<td><A HREF = "./docs/Clot_or_HaloCL-help-notes-2019.pdf" TARGET="_blank">help notes</A>
-			    <A HREF = "https://doi.org/10.1111/jth.15207" TARGET="_blank">publication</A></td>
-			<td><A HREF = "https://youtu.be/F5xq8pH08HQ" TARGET="_blank" >Video</A></td>
-			
-		</tr> 
-		<tr>    
-			<td><a href="#simple_clot">Simple clotting analysis</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A></td> 
-			<td><A></A></td>
-			<td><A HREF = "https://youtu.be/03QzFpDmSJM" TARGET="_blank" >Video</A></td>
-			
-		</tr> 
-		<tr> 	
-			<td><a href="#ECLT">Simple ECLT</a></td> 
-			<td><A HREF = "https://drclongstaff.github.io/ECLT_CL" TARGET="_blank">ECLT</A></td>
-			<td><A HREF = "./docs/ECLT-app-notes.pdf" TARGET="_blank">help notes</A></td>
-			<td><A HREF = "https://youtu.be/RlQBBY1MkxU" TARGET="_blank" >Video</A></td>
+    <tr>
+      <td><a href="#simple_lysis">Simple clot lysis</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/Simple_clotlysis_app" target="_blank" rel="noopener noreferrer">Simple_Clotlysis</a></td>
+      <td></td>
+      <td><a href="https://youtu.be/r0S3FmNwCPk" target="_blank" rel="noopener noreferrer">Video</a></td>
+    </tr>
 
-		</tr>
-		<tr> 	
-			<td><a href="#activation">Zymogen activation</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/zymogenactnCL" TARGET="_blank">ZymogenCL</A></td>
-			<td><A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">help notes</A>
-			    <A HREF = "https://doi.org/10.1073/pnas.2014810118" TARGET="_blank">publication</A></td>
-			<td><A HREF = "https://youtu.be/bay6ibzkAZ8" TARGET="_blank" >Video</A></td>	
-		</tr> 
-		<tr> 	
-			<td><a href="#albumin">Prekallikrein activator in albumin</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/PKA_CL" TARGET="_blank">PKA_CL</A></td>
-			<td><A HREF = "./docs/PKA_assay_help_notes.pdf" TARGET="_blank">help notes</A>
-			    <A HREF = "https://onlinelibrary.wiley.com/doi/10.1111/vox.12980" TARGET="_blank">publication</A></td>
-			<td><A HREF = "https://youtu.be/meBWsA97CVY" TARGET="_blank" >Video</A></td>	
+    <tr>
+      <td><a href="#analysis">Clotting or halo assays</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/Clot_or_HaloCL" target="_blank" rel="noopener noreferrer">Clotting_or_HaloCL</a></td>
+      <td>
+        <a href="./docs/Clot_or_HaloCL-help-notes-2019.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
+        <a href="https://doi.org/10.1111/jth.15207" target="_blank" rel="noopener noreferrer">publication</a>
+      </td>
+      <td><a href="https://youtu.be/F5xq8pH08HQ" target="_blank" rel="noopener noreferrer">Video</a></td>
+    </tr>
 
-		</tr> 
-		<tr> 	
-			<td><a href="#generation">Thrombin generation</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">ThrombinCL</A></td>
-			<td><A HREF = "./docs/TGA_help_notes_2020.pdf" TARGET="_blank">help notes</A>
-			    <A HREF = "https://thrombosisjournal.biomedcentral.com/articles/10.1186/s12959-023-00549-5" TARGET="_blank">publication</A></td>
-			<td><A HREF = "https://youtu.be/7QAzLdPPguY" TARGET="_blank" >Video</A></td>
-				
-			 
-			
-		</tr>  
-	 	<tr> 	
-			<td><a href="#tests">Screening tests</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/ScreeningCL" TARGET="_blank">ScreeningCL</A></td>
-			<td><A></A></td>
-			<td><A></A></td> 
-		
-			
-		</tr> 
-		<tr> 	
-			<td><a href="#kinetics">Michaelis Menten kinetics</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/MichaelisMentenCL" TARGET="_blank">MichaelisMentenCL</A></td>
-			<td><A></A></td>
-			<td><A></A></td> 
-			
-			 
-		</tr> 
-		<tr> 	
-			<td><a href="#plots">Scatchard plots</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/scatchardCL" TARGET="_blank">ScatchardCL</A></td>
-			<td><A></A></td>
-			<td><A></A></td> 
-			
-			 
-		</tr> 
-		
-		<tr> 
-			<th>Covid-19 resources</th>
-			<th>Link</th>
-			<th></th>
-			<th></th>
-		</tr>
-		<tr> 	
-			<td><a href="#Covid_test">Covid screening tests</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/Covid_19_testsCL/" TARGET="_blank">Covid_screening</A></td> 
-			<td><A></A></td>
-			<td><A></A></td> 
-			
-			
-		</tr> 
-		<tr> 	
-			<td><a href="#Covid_UK">Compare UK Covid data</a></td> 
-			<td><A HREF = "https://drclongstaff.shinyapps.io/Covid_UK/" TARGET="_blank">Covid_UK</A></td>
-			<td><A></A></td>
-			<td><A></A></td> 
-			 
-			
-		</tr> </table>
+    <tr>
+      <td><a href="#simple_clot">Simple clotting analysis</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/Simple_clotting_app" target="_blank" rel="noopener noreferrer">Simple_clotting</a></td>
+      <td></td>
+      <td><a href="https://youtu.be/03QzFpDmSJM" target="_blank" rel="noopener noreferrer">Video</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="#ECLT">Simple ECLT</a></td>
+      <td><a href="https://drclongstaff.github.io/ECLT_CL" target="_blank" rel="noopener noreferrer">ECLT</a></td>
+      <td><a href="./docs/ECLT-app-notes.pdf" target="_blank" rel="noopener noreferrer">help notes</a></td>
+      <td><a href="https://youtu.be/RlQBBY1MkxU" target="_blank" rel="noopener noreferrer">Video</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="#activation">Zymogen activation</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/zymogenactnCL" target="_blank" rel="noopener noreferrer">ZymogenCL</a></td>
+      <td>
+        <a href="./docs/ZymogenActn06_help_notes.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
+        <a href="https://doi.org/10.1073/pnas.2014810118" target="_blank" rel="noopener noreferrer">publication</a>
+      </td>
+      <td><a href="https://youtu.be/bay6ibzkAZ8" target="_blank" rel="noopener noreferrer">Video</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="#albumin">Prekallikrein activator in albumin</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/PKA_CL" target="_blank" rel="noopener noreferrer">PKA_CL</a></td>
+      <td>
+        <a href="./docs/PKA_assay_help_notes.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
+        <a href="https://onlinelibrary.wiley.com/doi/10.1111/vox.12980" target="_blank" rel="noopener noreferrer">publication</a>
+      </td>
+      <td><a href="https://youtu.be/meBWsA97CVY" target="_blank" rel="noopener noreferrer">Video</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="#generation">Thrombin generation</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/ThrombinCL" target="_blank" rel="noopener noreferrer">ThrombinCL</a></td>
+      <td>
+        <a href="./docs/TGA_help_notes_2020.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
+        <a href="https://thrombosisjournal.biomedcentral.com/articles/10.1186/s12959-023-00549-5" target="_blank" rel="noopener noreferrer">publication</a>
+      </td>
+      <td><a href="https://youtu.be/7QAzLdPPguY" target="_blank" rel="noopener noreferrer">Video</a></td>
+    </tr>
+
+    <tr>
+      <td><a href="#tests">Screening tests</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/ScreeningCL" target="_blank" rel="noopener noreferrer">ScreeningCL</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td><a href="#kinetics">Michaelis Menten kinetics</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/MichaelisMentenCL" target="_blank" rel="noopener noreferrer">MichaelisMentenCL</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td><a href="#plots">Scatchard plots</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/scatchardCL" target="_blank" rel="noopener noreferrer">ScatchardCL</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+
+  <thead>
+    <tr>
+      <th>Covid-19 resources</th>
+      <th>Link</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#Covid_test">Covid screening tests</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/Covid_19_testsCL/" target="_blank" rel="noopener noreferrer">Covid_screening</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <td><a href="#Covid_UK">Compare UK Covid data</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/Covid_UK/" target="_blank" rel="noopener noreferrer">Covid_UK</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <hr>
 
