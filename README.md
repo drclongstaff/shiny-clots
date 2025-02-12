@@ -27,7 +27,7 @@
 		</tr> 
 		
 		<tr> 	
-			<td><a href="#lysis">Clot lysis</a></td> 
+			<td><A HREF="#lysis">Clot lysis</a></td> 
 			<td><A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A></td> 
 			<td><A HREF = "./docs/Clotlysis-CL-help-notes-2019.pdf" >help notes</A>
 			    <A HREF = "https://doi.org/10.1111/jth.14787" TARGET="_blank">publication</A></td>	
