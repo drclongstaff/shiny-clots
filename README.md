@@ -52,6 +52,7 @@
         <a href="./docs/Clot_or_HaloCL-help-notes-2019.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
         <a href="https://doi.org/10.1111/jth.15207" target="_blank" rel="noopener noreferrer">publication</a>
       </td>
+      <td>
       	<a href="https://youtu.be/F5xq8pH08HQ" target="_blank" rel="noopener noreferrer">Video</a>
       	<a href="https://youtu.be/nsu_abnTm_E" target="_blank" rel="noopener noreferrer">Video</a>      
       </td>
