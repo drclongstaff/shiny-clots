@@ -41,7 +41,7 @@
     </tr>
 
     <tr>
-      <td><a href="#simple_lysis">Simple clot lysis</a></td>
+      <td><a href="#simple_lysis">Simple_clot_lysis</a></td>
       <td><a href="https://drclongstaff.shinyapps.io/Simple_clotlysis_app" target="_blank" rel="noopener noreferrer">Simple_Clotlysis</a></td>
       <td></td>
       <td><a href="https://youtu.be/r0S3FmNwCPk" target="_blank" rel="noopener noreferrer">Simple_lysis_video</a></td>
