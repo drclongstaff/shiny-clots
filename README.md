@@ -37,7 +37,7 @@
         <a href="./docs/Clotlysis-CL-help-notes-2019.pdf">help notes</a>
         <a href="https://doi.org/10.1111/jth.14787" target="_blank" rel="noopener noreferrer">publication</a>
       </td>
-      <td><a href="https://youtu.be/GCP6sgw10gE" target="_blank" rel="noopener noreferrer">Video</a></td>
+      <td><a href="https://youtu.be/GCP6sgw10gE" target="_blank" rel="noopener noreferrer">Clotlysis_video</a></td>
     </tr>
 
     <tr>
