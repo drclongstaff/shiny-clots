@@ -44,7 +44,7 @@
       <td><a href="#simple_lysis">Simple clot lysis</a></td>
       <td><a href="https://drclongstaff.shinyapps.io/Simple_clotlysis_app" target="_blank" rel="noopener noreferrer">Simple_Clotlysis</a></td>
       <td></td>
-      <td><a href="https://youtu.be/r0S3FmNwCPk" target="_blank" rel="noopener noreferrer">Video</a></td>
+      <td><a href="https://youtu.be/r0S3FmNwCPk" target="_blank" rel="noopener noreferrer">Simple_lysis_video</a></td>
     </tr>
 
     <tr>
@@ -55,8 +55,8 @@
         <a href="https://doi.org/10.1111/jth.15207" target="_blank" rel="noopener noreferrer">publication</a>
       </td>
       <td>
-      	<a href="https://youtu.be/F5xq8pH08HQ" target="_blank" rel="noopener noreferrer">Video</a>
-      	<a href="https://youtu.be/nsu_abnTm_E" target="_blank" rel="noopener noreferrer">Video</a>      
+      	<a href="https://youtu.be/F5xq8pH08HQ" target="_blank" rel="noopener noreferrer">Simple_clotting_video</a>
+      	<a href="https://youtu.be/nsu_abnTm_E" target="_blank" rel="noopener noreferrer">Halo_lysis_video</a>      
       </td>
     </tr>
 
@@ -64,14 +64,14 @@
       <td><a href="#simple_clot">Simple clotting analysis</a></td>
       <td><a href="https://drclongstaff.shinyapps.io/Simple_clotting_app" target="_blank" rel="noopener noreferrer">Simple_clotting</a></td>
       <td></td>
-      <td><a href="https://youtu.be/03QzFpDmSJM" target="_blank" rel="noopener noreferrer">Video</a></td>
+      <td><a href="https://youtu.be/03QzFpDmSJM" target="_blank" rel="noopener noreferrer">Simple_clotting_video</a></td>
     </tr>
 
     <tr>
       <td><a href="#ECLT">Simple ECLT</a></td>
       <td><a href="https://drclongstaff.github.io/ECLT_CL" target="_blank" rel="noopener noreferrer">ECLT</a></td>
       <td><a href="./docs/ECLT-app-notes.pdf" target="_blank" rel="noopener noreferrer">help notes</a></td>
-      <td><a href="https://youtu.be/RlQBBY1MkxU" target="_blank" rel="noopener noreferrer">Video</a></td>
+      <td><a href="https://youtu.be/RlQBBY1MkxU" target="_blank" rel="noopener noreferrer">ECLT_video</a></td>
     </tr>
 
     <tr>
@@ -81,7 +81,7 @@
         <a href="./docs/ZymogenActn06_help_notes.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
         <a href="https://doi.org/10.1073/pnas.2014810118" target="_blank" rel="noopener noreferrer">publication</a>
       </td>
-      <td><a href="https://youtu.be/bay6ibzkAZ8" target="_blank" rel="noopener noreferrer">Video</a></td>
+      <td><a href="https://youtu.be/bay6ibzkAZ8" target="_blank" rel="noopener noreferrer">Zymogen_video</a></td>
     </tr>
 
     <tr>
@@ -91,7 +91,7 @@
         <a href="./docs/PKA_assay_help_notes.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
         <a href="https://onlinelibrary.wiley.com/doi/10.1111/vox.12980" target="_blank" rel="noopener noreferrer">publication</a>
       </td>
-      <td><a href="https://youtu.be/meBWsA97CVY" target="_blank" rel="noopener noreferrer">Video</a></td>
+      <td><a href="https://youtu.be/meBWsA97CVY" target="_blank" rel="noopener noreferrer">PKA_video</a></td>
     </tr>
 
     <tr>
@@ -101,7 +101,7 @@
         <a href="./docs/TGA_help_notes_2020.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
         <a href="https://thrombosisjournal.biomedcentral.com/articles/10.1186/s12959-023-00549-5" target="_blank" rel="noopener noreferrer">publication</a>
       </td>
-      <td><a href="https://youtu.be/7QAzLdPPguY" target="_blank" rel="noopener noreferrer">Video</a></td>
+      <td><a href="https://youtu.be/7QAzLdPPguY" target="_blank" rel="noopener noreferrer">Thrombin_video</a></td>
     </tr>
 
     <tr>
