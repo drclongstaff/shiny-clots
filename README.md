@@ -76,7 +76,7 @@
 
     <tr>
       <td><a href="#activation">Zymogen activation</a></td>
-      <td><a href="https://drclongstaff.shinyapps.io/zymogenactnCL" target="_blank" rel="noopener noreferrer">ZymogenCL</a></td>
+      <td><a href="https://01980f93-0c02-f990-6b5e-034481a6b651.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">ZymogenCL</a></td>
       <td>
         <a href="./docs/ZymogenActn06_help_notes.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
         <a href="https://doi.org/10.1073/pnas.2014810118" target="_blank" rel="noopener noreferrer">publication</a>
