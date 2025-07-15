@@ -229,7 +229,7 @@ Clotting and fibrinolysis cascades involve zymogen activation reactions, which a
 	
 The app can be used to calculate rates of simple chromogenic substrate hydrolysis, rates of absorbance versus time squared, or by providing a few parameters, the rate of zymogen activation in pM/s
 
-<A HREF = "https://drclongstaff.shinyapps.io/zymogenactnCL" TARGET="_blank">Online app is here</A>
+<A HREF = "https://01980f93-0c02-f990-6b5e-034481a6b651.share.connect.posit.cloud/" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/ZymogenActn06_help_notes.pdf" TARGET="_blank">here</A>
 
