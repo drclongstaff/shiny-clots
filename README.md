@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td><a href="#lysis">Clot lysis</a></td>
-      <td><a href="https://drclongstaff.shinyapps.io/clotlysisCL_2019" target="_blank" rel="noopener noreferrer">ClotlysisCL_2019</a></td>
+      <td><a href="https://0196f873-6e52-8440-6a25-341e279731e8.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">ClotlysisCL_2019</a></td>
       <td>
         <a href="./docs/Clotlysis-CL-help-notes-2019.pdf">help notes</a>
         <a href="https://doi.org/10.1111/jth.14787" target="_blank" rel="noopener noreferrer">publication</a>
@@ -165,7 +165,7 @@ The output from a set of clot lysis curves is shown here, along with the results
 
 Options are provided for baseline selection and curve fitting to facilitate reproducible, high throughput analysis
 
-This is a link to the online app, please try it out <A HREF = "https://drclongstaff.shinyapps.io/clotlysisCL_2019" TARGET="_blank">ClotlysisCL_2019</A>
+This is a link to the online app, please try it out <A HREF = "https://0196f873-6e52-8440-6a25-341e279731e8.share.connect.posit.cloud/" TARGET="_blank">ClotlysisCL_2019</A>
 
 
 Detailed help notes are available <A HREF = "./docs/Clotlysis-CL-help-notes-2019.pdf" TARGET="_blank">here</A>
