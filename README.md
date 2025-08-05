@@ -42,7 +42,7 @@
 
     <tr>
       <td><a href="#simple_lysis">Simple_clot_lysis</a></td>
-      <td><a href="https://drclongstaff.shinyapps.io/Simple_clotlysis_app" target="_blank" rel="noopener noreferrer">Simple_Clotlysis</a></td>
+      <td><a href="https://0196e943-84b3-426b-15e7-f13339832e0d.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">Simple_Clotlysis</a></td>
       <td></td>
       <td><a href="https://youtu.be/r0S3FmNwCPk" target="_blank" rel="noopener noreferrer">Simple_lysis_video</a></td>
     </tr>
@@ -174,7 +174,7 @@ Detailed help notes are available <A HREF = "./docs/Clotlysis-CL-help-notes-2019
 
 There is an updated simplified app available to analyse clot lysis curves. There are fewer options for manipulating the curves but the app can handle awkward data better, including empty wells or noisy responses. 
 
-Please try it out: <A HREF = "https://0196c0db-da6c-a550-f5bb-70357cc76cfa.share.connect.posit.cloud/" TARGET="_blank">Simple_Clotlysis</A>
+Please try it out: <A HREF = "https://0196e943-84b3-426b-15e7-f13339832e0d.share.connect.posit.cloud/" TARGET="_blank">Simple_Clotlysis</A>
 
 Return to <a href="#top">top</a>
 
@@ -196,7 +196,7 @@ Detailed help notes are available <A HREF = "./docs/Clot_or_HaloCL-help-notes-20
 
 There is an updated simplified app available to analyse clotting curves. There are fewer options for manipulating the curves but the app can handle awkward data better, including empty wells or noisy responses. 
 
-Please try it out: <A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app" TARGET="_blank">Simple_clotting</A>
+Please try it out: <A HREF = "https://0196c0db-da6c-a550-f5bb-70357cc76cfa.share.connect.posit.cloud/" TARGET="_blank">Simple_clotting</A>
 
 
 Return to <a href="#top">top</a>
