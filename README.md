@@ -49,7 +49,7 @@
 
     <tr>
       <td><a href="#analysis">Clotting or halo assays</a></td>
-      <td><a href="https://drclongstaff.shinyapps.io/Clot_or_HaloCL" target="_blank" rel="noopener noreferrer">Clotting_or_HaloCL</a></td>
+      <td><a href="https://01988529-ed51-691e-f19f-2224b35a46db.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">Clotting_or_HaloCL</a></td>
       <td>
         <a href="./docs/Clot_or_HaloCL-help-notes-2019.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
         <a href="https://doi.org/10.1111/jth.15207" target="_blank" rel="noopener noreferrer">publication</a>
@@ -188,7 +188,7 @@ Absorbance curves from assays where fibrinogen or plasma is clotted in microtitr
  <img src="./images/Clotcurves.png" alt="Halo"
 	title="A halo assay curve" width="400" height="300" />
 	
-<A HREF = "https://drclongstaff.shinyapps.io/Clot_or_HaloCL" TARGET="_blank">Online app is here</A>
+<A HREF = "https://01988529-ed51-691e-f19f-2224b35a46db.share.connect.posit.cloud/" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/Clot_or_HaloCL-help-notes-2019.pdf" TARGET="_blank">here</A>
 
