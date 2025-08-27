@@ -96,7 +96,7 @@
 
     <tr>
       <td><a href="#generation">Thrombin generation</a></td>
-      <td><a href="https://drclongstaff.shinyapps.io/ThrombinCL" target="_blank" rel="noopener noreferrer">ThrombinCL</a></td>
+      <td><a href="https://0198eb72-b9e0-7c12-b56b-62698f4ff990.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">ThrombinCL</a></td>
       <td>
         <a href="./docs/TGA_help_notes_2020.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
         <a href="https://thrombosisjournal.biomedcentral.com/articles/10.1186/s12959-023-00549-5" target="_blank" rel="noopener noreferrer">publication</a>
@@ -262,7 +262,7 @@ This app is similar to the clot lysis app but raw fluorescence data and calibrat
  <img src="./images/June_19_single_curve.png" alt="Curve"
 	title="Thrombin generation curve" width="500" height="400" />
 	
-<A HREF = "https://drclongstaff.shinyapps.io/ThrombinCL" TARGET="_blank">Online app is here</A>
+<A HREF = "https://0198eb72-b9e0-7c12-b56b-62698f4ff990.share.connect.posit.cloud/" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/TGA_help_notes_2020.pdf" TARGET="_blank">here</A>
 
