@@ -62,7 +62,7 @@
 
     <tr>
       <td><a href="#simple_clot">Simple clotting analysis</a></td>
-      <td><a href="https://0196c0db-da6c-a550-f5bb-70357cc76cfa.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">Simple_clotting</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/Simple_clotting_app" target="_blank" rel="noopener noreferrer">Simple_clotting</a></td>
       <td></td>
       <td><a href="https://youtu.be/03QzFpDmSJM" target="_blank" rel="noopener noreferrer">Simple_clotting_video</a></td>
     </tr>
@@ -196,7 +196,7 @@ Detailed help notes are available <A HREF = "./docs/Clot_or_HaloCL-help-notes-20
 
 There is an updated simplified app available to analyse clotting curves. There are fewer options for manipulating the curves but the app can handle awkward data better, including empty wells or noisy responses. 
 
-Please try it out: <A HREF = "https://0196c0db-da6c-a550-f5bb-70357cc76cfa.share.connect.posit.cloud/" TARGET="_blank">Simple_clotting</A>
+Please try it out: <A HREF = "https://drclongstaff.shinyapps.io/Simple_clotting_app/" TARGET="_blank">Simple_clotting</A>
 
 
 Return to <a href="#top">top</a>
