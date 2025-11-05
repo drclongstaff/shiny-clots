@@ -69,7 +69,7 @@
 
     <tr>
       <td><a href="#ECLT">Simple ECLT</a></td>
-      <td><a href="https://drclongstaff.github.io/ECLT_CL" target="_blank" rel="noopener noreferrer">ECLT</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/ECLT_CL/" target="_blank" rel="noopener noreferrer">ECLT</a></td>
       <td><a href="./docs/ECLT-app-notes.pdf" target="_blank" rel="noopener noreferrer">help notes</a></td>
       <td><a href="https://youtu.be/RlQBBY1MkxU" target="_blank" rel="noopener noreferrer">ECLT_video</a></td>
     </tr>
@@ -211,7 +211,7 @@ This is the simplest clotting or lysis app covering only one page and with minim
  <img src="./images/Plots.PNG" alt="ECLT"
 	title="ECLT lysis curves" width="500" height="400" />
  
- <A HREF = "https://drclongstaff.github.io/ECLT_CL" TARGET="_blank">Online app is here</A>
+ <A HREF = "https://drclongstaff.shinyapps.io/ECLT_CL/" TARGET="_blank">Online app is here</A>
 
 Detailed help notes are available <A HREF = "./docs/ECLT-app-notes.pdf" TARGET="_blank">here</A>
 
