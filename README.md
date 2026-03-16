@@ -150,7 +150,7 @@
     </tr>
 
 	<tr>
-      <td><a href="#Covid_UK">Premium bond prize checker</a></td>
+      <td><a href="#Premium_bonds">Premium bond prize checker</a></td>
       <td><a href="https://019cf824-922f-b4ad-2c7f-fff03cb7ad5e.share.connect.posit.cloud//" target="_blank" rel="noopener noreferrer">Premium_bond</a></td>
       <td></td>
       <td></td>
@@ -359,3 +359,7 @@ This app uses data from Our World in Data and opens with UK daily and cumulative
 <A HREF = "https://drclongstaff.shinyapps.io/Covid_UK/" TARGET="_blank">Online app is here</A>
 Return to <a href="#top">top</a>
 
+<a name="Premium_bonds"></a>
+### Premium bond prize checker for unclaimed prizes
+
+National Savings and Investments (NS&I) organises monthly prize draws for premimum bond holders in the UK. Prizes have been issued since 1956 but there are 2.6 million unclaimed prizes totalling > £108 million. This interactive Quarto dashboard provides a simple way to check premium bond numbers linked to unclaimed prizes from £25 to £100000.
