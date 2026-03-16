@@ -364,5 +364,5 @@ Return to <a href="#top">top</a>
 
 National Savings and Investments (NS&I) organises monthly prize draws for premimum bond holders in the UK. Prizes have been issued since 1956 but there are 2.6 million unclaimed prizes totalling > £108 million. This interactive Quarto dashboard provides a simple way to check premium bond numbers linked to unclaimed prizes from £25 to £100000.
 
-<img src="./images/Prizes2.png" alt="Prizes"
-	title="Unclaimed prizes" width="800" height="500" />
+<img src="./images/Prize2.png" alt="Prizes"
+	title="Unclaimed prizes" width="500" height="800" />
