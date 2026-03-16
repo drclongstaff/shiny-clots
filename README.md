@@ -151,7 +151,7 @@
 
 	<tr>
       <td><a href="#Premium_bonds">Premium bond prize checker</a></td>
-      <td><a href="https://019cf824-922f-b4ad-2c7f-fff03cb7ad5e.share.connect.posit.cloud//" target="_blank" rel="noopener noreferrer">Premium_bond</a></td>
+      <td><a href="https://019cf824-922f-b4ad-2c7f-fff03cb7ad5e.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">Premium_bond</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -367,5 +367,5 @@ National Savings and Investments (NS&I) organises monthly prize draws for premim
 <img src="./images/Prize2.png" alt="Prizes"
 	title="Unclaimed prizes" width="400" height="600" />
 
-<A HREF = "https://019cf824-922f-b4ad-2c7f-fff03cb7ad5e.share.connect.posit.cloud//" target="_blank" rel="noopener noreferrer">Premium_bond" TARGET="_blank">Online app is here</A>
+<A HREF = "https://019cf824-922f-b4ad-2c7f-fff03cb7ad5e.share.connect.posit.cloud/" TARGET="_blank">Online app is here</A>
 Return to <a href="#top">top</a>
