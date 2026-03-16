@@ -148,6 +148,13 @@
       <td></td>
       <td></td>
     </tr>
+
+	<tr>
+      <td><a href="#Covid_UK">Compare UK Covid data</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/Covid_UK/" target="_blank" rel="noopener noreferrer">Covid_UK</a></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
