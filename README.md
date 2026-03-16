@@ -128,7 +128,7 @@
 
   <thead>
     <tr>
-      <th>Covid-19 resources</th>
+      <th>Covid-19 and other resources</th>
       <th>Link</th>
       <th></th>
       <th></th>
