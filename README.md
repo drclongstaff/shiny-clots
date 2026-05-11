@@ -384,7 +384,7 @@ Return to <a href="#top">top</a>
 Are premium bonds a worthwhile investment? This interactive Quarto dashboard allows you to explore likely winnings over a year for a chosen level of investment up to the maximum holding of £50000. You can then simulate draws over a number of years to see possible returns on investment. NS&I have calculated a return of around 3.3%, on average, but with luck you can win some big prizes. Is it worth it?
 
 <img src="./images/simCentury.png" alt="Simulations"
-	title="Long term prize winnings" width="600" height="750" />
+	title="Long term prize winnings" width="400" height="500" />
 
 <A HREF = "https://drclongstaff-prem-bond-simulator.share.connect.posit.cloud/" TARGET="_blank">Online app is here</A>
 
