@@ -158,7 +158,7 @@
 
 	<tr>
       <td><a href="#Prem_bond_sim">Premium bond simulator</a></td>
-      <td><a href="https://drclongstaff-prem-bond-simulator.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">Premium_bond</a></td>
+      <td><a href="https://drclongstaff-prem-bond-simulator.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">Prem_bond_simulator</a></td>
       <td></td>
       <td></td>
     </tr>
