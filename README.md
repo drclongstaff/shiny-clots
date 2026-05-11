@@ -175,7 +175,7 @@ This app was designed to facilitate the analysis of fibrin clotting and lysis cu
 The output from a set of clot lysis curves is shown here, along with the results for the time to 50% clot lysis. The app makes it easy to extract selected parameters from these curves, such as time to a chosen % lysis, maximum absorbance, area under the curve, etc.
 
 <img src="./images/GraphTable.PNG" alt="GraphTable"
-	title="Clot lysis results" width="650" height="600" />
+	title="Clot lysis results" width="600" height="500" />
 
 Options are provided for baseline selection and curve fitting to facilitate reproducible, high throughput analysis
 
