@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td><a href="#lysis">Clot lysis</a></td>
-      <td><a href="https://0196f873-6e52-8440-6a25-341e279731e8.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">ClotlysisCL_2019</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/clotlysisCL_2019/" target="_blank" rel="noopener noreferrer">ClotlysisCL_2019</a></td>
       <td>
         <a href="./docs/Clotlysis-CL-help-notes-2019.pdf">help notes</a>
         <a href="https://doi.org/10.1111/jth.14787" target="_blank" rel="noopener noreferrer">publication</a>
@@ -42,7 +42,7 @@
 
     <tr>
       <td><a href="#simple_lysis">Simple_clot_lysis</a></td>
-      <td><a href="https://drclongstaff-simple-clotlysis.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">Simple_Clotlysis</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/Simple_clotlysis_app/" target="_blank" rel="noopener noreferrer">Simple_Clotlysis</a></td>
       <td></td>
       <td><a href="https://youtu.be/r0S3FmNwCPk" target="_blank" rel="noopener noreferrer">Simple_lysis_video</a></td>
     </tr>
@@ -76,7 +76,7 @@
 
     <tr>
       <td><a href="#activation">Zymogen activation</a></td>
-      <td><a href="https://01980f93-0c02-f990-6b5e-034481a6b651.share.connect.posit.cloud/" target="_blank" rel="noopener noreferrer">ZymogenCL</a></td>
+      <td><a href="https://drclongstaff.shinyapps.io/zymogenactnCL/" target="_blank" rel="noopener noreferrer">ZymogenCL</a></td>
       <td>
         <a href="./docs/ZymogenActn06_help_notes.pdf" target="_blank" rel="noopener noreferrer">help notes</a>
         <a href="https://doi.org/10.1073/pnas.2014810118" target="_blank" rel="noopener noreferrer">publication</a>
